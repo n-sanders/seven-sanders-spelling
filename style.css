@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  #app {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  #word-container {
+    display: flex;
+    flex-direction: row; /* Ensure horizontal layout */
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  .letter-box {
+    width: 40px;
+    height: 40px;
+    border: 2px solid #000;
+    margin: 0 5px;
+    font-size: 24px;
+    line-height: 40px;
+    text-transform: uppercase;
+    text-align: center;
+    cursor: pointer; /* Make it look clickable */
+  }
+
+  #keyboard {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  #keyboard button {
+    width: 40px;
+    height: 40px;
+    margin: 5px;
+    font-size: 18px;
+  }
+  
+  #feedback {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  #session-complete {
+    margin-top: 20px;
+  }
