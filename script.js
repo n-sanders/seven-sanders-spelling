@@ -6,12 +6,33 @@ let enteredLetters = [];
 let currentPos = 0;
 let currentAttempts = 0;
 let allWords = [];
+let spellingListTitle = ''; // New: Store the title
+let spellingListDescription = ''; // New: Store the description
 
-// Load the word list from words.json
-fetch('/data/words.json')
-  .then(response => response.json())
-  .then(data => {
-    allWords = data;
+fetch('/data/dolch-k.json')
+  .then(response => {
+    console.log('Response status:', response.status);
+    console.log('Response ok:', response.ok);
+    if (!response.ok) {
+      throw new Error(`HTTP error! Status: ${response.status}`);
+    }
+    return response.text();
+  })
+  .then(text => {
+    const data = JSON.parse(text);
+    allWords = data.words;
+    spellingListTitle = data.title;
+    spellingListDescription = data.description;
+
+    const titleElement = document.getElementById('list-title');
+    const descriptionElement = document.getElementById('list-description');
+    if (titleElement) {
+      titleElement.textContent = spellingListTitle;
+    }
+    if (descriptionElement) {
+      descriptionElement.textContent = spellingListDescription;
+    }
+
     loadProgress();
   })
   .catch(err => console.error('Error loading words:', err));
@@ -54,7 +75,7 @@ function createWordBlanks(length) {
     const box = document.createElement('div');
     box.className = 'letter-box';
     box.textContent = '_';
-    box.dataset.index = i; // Store the index for clicking
+    box.dataset.index = i;
     box.addEventListener('click', () => {
       currentPos = parseInt(box.dataset.index);
       highlightActiveBox();
@@ -79,7 +100,6 @@ function createKeyboard() {
     button.addEventListener('click', () => onLetterInput(button.textContent));
     keyboard.appendChild(button);
   }
-  // Add backspace button
   const backspaceBtn = document.createElement('button');
   backspaceBtn.textContent = '⌫';
   backspaceBtn.style.width = '60px';
@@ -110,7 +130,6 @@ function onBackspace() {
   }
 }
 
-// Handle keyboard input
 document.addEventListener('keydown', (e) => {
   if (e.key >= 'a' && e.key <= 'z') {
     onLetterInput(e.key.toUpperCase());
@@ -119,7 +138,6 @@ document.addEventListener('keydown', (e) => {
   }
 });
 
-// Check button logic
 document.getElementById('check-btn').addEventListener('click', () => {
   const userInput = enteredLetters.join('');
   if (userInput === currentWord) {
@@ -156,21 +174,23 @@ function nextWord() {
 
 // Speaker button
 document.getElementById('speaker-btn').addEventListener('click', () => {
-  // Find the prompt for the current word
+  // Find the word data for the current word
   const wordData = allWords.find(w => w.word === currentWord);
+  const audioFile = wordData ? wordData['audio-file'] : `${currentWord}.wav`; // Use audio-file field
   const prompt = wordData ? wordData.prompt : `${currentWord}.`;
 
-  fetch(`/api/getAudio?word=${currentWord}&prompt=${encodeURIComponent(prompt)}`)
+  fetch(`/api/getAudio?word=${audioFile}&prompt=${encodeURIComponent(prompt)}`)
     .then(res => res.json())
     .then(data => {
       if (data.error) {
         throw new Error(data.error);
       }
-      const audio = new Audio(data.audio); // Base64 data URL
+      const audio = new Audio(data.audio);
       audio.play();
     })
     .catch(err => console.error('Error playing audio:', err));
 });
+
 // Next session button
 document.getElementById('next-session-btn').addEventListener('click', () => {
   document.getElementById('session-complete').style.display = 'none';
