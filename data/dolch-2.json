@@ -1,0 +1,236 @@
+{
+    "title": "Level 2",
+    "description": "Dolch Second Grade list. 46 Words.",
+    "words": [
+      {
+        "word": "always",
+        "prompt": "Always. Always brush your teeth before bed. Always.",
+        "audio-file": "always"
+      },
+      {
+        "word": "around",
+        "prompt": "Around. We walked around the block. Around.",
+        "audio-file": "around"
+      },
+      {
+        "word": "because",
+        "prompt": "Because. He was happy because he got a present. Because.",
+        "audio-file": "because"
+      },
+      {
+        "word": "been",
+        "prompt": "Been. Have you ever been to the zoo? Been.",
+        "audio-file": "been"
+      },
+      {
+        "word": "before",
+        "prompt": "Before. Look both ways before you cross the street. Before.",
+        "audio-file": "before"
+      },
+      {
+        "word": "best",
+        "prompt": "Best. She tried her best on the test. Best.",
+        "audio-file": "best"
+      },
+      {
+        "word": "both",
+        "prompt": "Both. Both puppies are cute. Both.",
+        "audio-file": "both"
+      },
+      {
+        "word": "buy",
+        "prompt": "Buy. I need to buy some milk. Buy.",
+        "audio-file": "buy"
+      },
+      {
+        "word": "call",
+        "prompt": "Call. Please call me when you get home. Call.",
+        "audio-file": "call"
+      },
+      {
+        "word": "cold",
+        "prompt": "Cold. It is cold outside today. Cold.",
+        "audio-file": "cold"
+      },
+      {
+        "word": "does",
+        "prompt": "Does. Does the dog want to go out? Does.",
+        "audio-file": "does"
+      },
+      {
+        "word": "don’t",
+        "prompt": "Don’t. Don’t forget your lunchbox. Don’t.",
+        "audio-file": "dont"
+      },
+      {
+        "word": "fast",
+        "prompt": "Fast. The cheetah can run very fast. Fast.",
+        "audio-file": "fast"
+      },
+      {
+        "word": "first",
+        "prompt": "First. She was the first person in line. First.",
+        "audio-file": "first"
+      },
+      {
+        "word": "five",
+        "prompt": "Five. I have five fingers on my hand. Five.",
+        "audio-file": "five"
+      },
+      {
+        "word": "found",
+        "prompt": "Found. He found his lost toy. Found.",
+        "audio-file": "found"
+      },
+      {
+        "word": "gave",
+        "prompt": "Gave. My friend gave me a sticker. Gave.",
+        "audio-file": "gave"
+      },
+      {
+        "word": "goes",
+        "prompt": "Goes. The bus goes to the city. Goes.",
+        "audio-file": "goes"
+      },
+      {
+        "word": "green",
+        "prompt": "Green. Grass is usually green. Green.",
+        "audio-file": "green"
+      },
+      {
+        "word": "its",
+        "prompt": "Its. The dog wagged its tail. Its.",
+        "audio-file": "its"
+      },
+      {
+        "word": "made",
+        "prompt": "Made. Mom made cookies for us. Made.",
+        "audio-file": "made"
+      },
+      {
+        "word": "many",
+        "prompt": "Many. There are many stars in the sky. Many.",
+        "audio-file": "many"
+      },
+      {
+        "word": "off",
+        "prompt": "Off. Please turn off the light. Off.",
+        "audio-file": "off"
+      },
+      {
+        "word": "or",
+        "prompt": "Or. Do you want juice or water? Or.",
+        "audio-file": "or"
+      },
+      {
+        "word": "pull",
+        "prompt": "Pull. You need to pull the door to open it. Pull.",
+        "audio-file": "pull"
+      },
+      {
+        "word": "read",
+        "prompt": "Read. I like to read books. Read.",
+        "audio-file": "read"
+      },
+      {
+        "word": "right",
+        "prompt": "Right. Turn right at the corner. Right.",
+        "audio-file": "right"
+      },
+      {
+        "word": "sing",
+        "prompt": "Sing. Let's sing a song together. Sing.",
+        "audio-file": "sing"
+      },
+      {
+        "word": "sit",
+        "prompt": "Sit. Please sit down in your chair. Sit.",
+        "audio-file": "sit"
+      },
+      {
+        "word": "sleep",
+        "prompt": "Sleep. Cats like to sleep a lot. Sleep.",
+        "audio-file": "sleep"
+      },
+      {
+        "word": "tell",
+        "prompt": "Tell. Can you tell me a story? Tell.",
+        "audio-file": "tell"
+      },
+      {
+        "word": "their",
+        "prompt": "Their. That is their house. Their.",
+        "audio-file": "their"
+      },
+      {
+        "word": "these",
+        "prompt": "These. These apples are red. These.",
+        "audio-file": "these"
+      },
+      {
+        "word": "those",
+        "prompt": "Those. Those birds are flying high. Those.",
+        "audio-file": "those"
+      },
+      {
+        "word": "upon",
+        "prompt": "Upon. Once upon a time. Upon.",
+        "audio-file": "upon"
+      },
+      {
+        "word": "us",
+        "prompt": "Us. Will you play with us? Us.",
+        "audio-file": "us"
+      },
+      {
+        "word": "use",
+        "prompt": "Use. Please use a pencil to write. Use.",
+        "audio-file": "use"
+      },
+      {
+        "word": "very",
+        "prompt": "Very. It is a very sunny day. Very.",
+        "audio-file": "very"
+      },
+      {
+        "word": "wash",
+        "prompt": "Wash. Remember to wash your hands. Wash.",
+        "audio-file": "wash"
+      },
+      {
+        "word": "which",
+        "prompt": "Which. Which color do you like best? Which.",
+        "audio-file": "which"
+      },
+      {
+        "word": "why",
+        "prompt": "Why. Why is the sky blue? Why.",
+        "audio-file": "why"
+      },
+      {
+        "word": "wish",
+        "prompt": "Wish. I wish I could fly. Wish.",
+        "audio-file": "wish"
+      },
+      {
+        "word": "work",
+        "prompt": "Work. Dad goes to work every day. Work.",
+        "audio-file": "work"
+      },
+      {
+        "word": "would",
+        "prompt": "Would. Would you like some help? Would.",
+        "audio-file": "would"
+      },
+      {
+        "word": "write",
+        "prompt": "Write. Can you write your name? Write.",
+        "audio-file": "write"
+      },
+      {
+        "word": "your",
+        "prompt": "Your. Is this your backpack? Your.",
+        "audio-file": "your"
+      }
+    ]
+  }

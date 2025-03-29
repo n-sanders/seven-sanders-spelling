@@ -10,7 +10,7 @@ module.exports = async (req, res) => {
   const prompt = req.query.prompt;
 
   const apiKey = process.env.CARTESIA_API_KEY;
-  const voiceId = "cca5ca6e-dabc-4559-b628-7b04ff10082f";
+  const voiceId = "694f9389-aac1-45b6-b726-9d9369183238";
   const audioFileName = `${word}.wav`;
 
   console.log("Checking Blob for:", audioFileName);

@@ -7,18 +7,36 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <div id="app">
+  <div id="list-selection" class="container">
     <h1>Spelling Practice</h1>
+    <h2>Select a Spelling List</h2>
+    <div id="lists-container"></div>
+  </div>
+
+  <div id="app" class="container" style="display:none">
+    <h1>Spelling Practice</h1>
+    <h2 id="list-title"></h2>
+    <p id="list-description"></p>
+    <div id="mastery-progress">
+      <span id="mastered-count">0</span> of <span id="total-count">0</span> words mastered
+    </div>
     <div id="word-container"></div>
-    <div id="feedback"></div>
     <div id="keyboard"></div>
     <button id="check-btn" disabled>Check</button>
     <button id="speaker-btn">🔊</button>
+    <button id="change-list-btn">Change List</button>
+    <div id="feedback"></div>
   </div>
-  <div id="session-complete" style="display:none">
+
+  <div id="session-complete" class="container" style="display:none">
     <h2>Session Complete!</h2>
+    <div id="session-mastery-progress">
+      <span id="session-mastered-count">0</span> of <span id="session-total-count">0</span> words mastered
+    </div>
     <button id="next-session-btn">Start Next Session</button>
+    <button id="change-list-btn-complete">Change List</button>
   </div>
+
   <script src="script.js"></script>
 </body>
 </html>

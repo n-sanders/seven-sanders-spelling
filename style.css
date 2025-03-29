@@ -3,9 +3,10 @@ body {
     text-align: center;
   }
   
-  #app {
+  .container {
     max-width: 600px;
     margin: 0 auto;
+    padding: 20px;
   }
   
   #word-container {
@@ -48,4 +49,109 @@ body {
   
   #session-complete {
     margin-top: 20px;
+  }
+  
+  /* List selection styles */
+  #lists-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin: 20px auto;
+  }
+  
+  .list-option {
+    padding: 15px;
+    border: 2px solid #007bff;
+    border-radius: 8px;
+    background-color: #f8f9fa;
+    cursor: pointer;
+    transition: all 0.2s ease;
+  }
+  
+  .list-option:hover {
+    background-color: #e9ecef;
+    transform: scale(1.02);
+  }
+  
+  .list-title {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .list-description {
+    font-size: 14px;
+    color: #6c757d;
+    margin-bottom: 10px;
+  }
+  
+  .list-progress {
+    margin-top: 10px;
+  }
+
+  .progress-bar {
+    height: 10px;
+    background-color: #e9ecef;
+    border-radius: 10px;
+    overflow: hidden;
+    margin-bottom: 5px;
+  }
+
+  .progress-fill {
+    height: 100%;
+    background-color: #28a745;
+    border-radius: 10px;
+    transition: width 0.5s ease;
+  }
+
+  .progress-text {
+    font-size: 12px;
+    color: #6c757d;
+    text-align: right;
+  }
+  
+  button {
+    padding: 10px 15px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin: 5px;
+  }
+  
+  button:hover {
+    background-color: #0069d9;
+  }
+  
+  button:disabled {
+    background-color: #6c757d;
+    cursor: not-allowed;
+  }
+  
+  #change-list-btn, #change-list-btn-complete {
+    background-color: #6c757d;
+  }
+  
+  #change-list-btn:hover, #change-list-btn-complete:hover {
+    background-color: #5a6268;
+  }
+  
+  #mastery-progress, #session-mastery-progress {
+    margin: 15px 0;
+    font-size: 16px;
+    color: #555;
+    background-color: #f8f9fa;
+    padding: 8px 15px;
+    border-radius: 4px;
+    border: 1px solid #dee2e6;
+  }
+
+  #mastered-count, #session-mastered-count {
+    font-weight: bold;
+    color: #28a745;
+  }
+
+  #total-count, #session-total-count {
+    font-weight: bold;
   }

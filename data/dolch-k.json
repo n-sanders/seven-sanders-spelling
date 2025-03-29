@@ -5,262 +5,262 @@
       {
         "word": "all",
         "prompt": "All. We ate all the cookies. All.",
-        "audio-file": "all.wav"
+        "audio-file": "all"
       },
       {
         "word": "am",
         "prompt": "Am. I am very happy today. Am.",
-        "audio-file": "am.wav"
+        "audio-file": "am"
       },
       {
         "word": "are",
         "prompt": "Are. They are playing outside. Are.",
-        "audio-file": "are.wav"
+        "audio-file": "are"
       },
       {
         "word": "at",
         "prompt": "At. She is at the park. At.",
-        "audio-file": "at.wav"
+        "audio-file": "at"
       },
       {
         "word": "ate",
         "prompt": "Ate. He ate his lunch quickly. Ate.",
-        "audio-file": "ate.wav"
+        "audio-file": "ate"
       },
       {
         "word": "be",
         "prompt": "Be. I will be home soon. Be.",
-        "audio-file": "be.wav"
+        "audio-file": "be"
       },
       {
         "word": "black",
         "prompt": "Black. The cat is black. Black.",
-        "audio-file": "black.wav"
+        "audio-file": "black"
       },
       {
         "word": "brown",
         "prompt": "Brown. The dog has brown fur. Brown.",
-        "audio-file": "brown.wav"
+        "audio-file": "brown"
       },
       {
         "word": "but",
         "prompt": "But. I wanted to go, but it rained. But.",
-        "audio-file": "but.wav"
+        "audio-file": "but"
       },
       {
         "word": "came",
         "prompt": "Came. She came to my house. Came.",
-        "audio-file": "came.wav"
+        "audio-file": "came"
       },
       {
         "word": "did",
         "prompt": "Did. He did his homework. Did.",
-        "audio-file": "did.wav"
+        "audio-file": "did"
       },
       {
         "word": "do",
         "prompt": "Do. I can do this puzzle. Do.",
-        "audio-file": "do.wav"
+        "audio-file": "do"
       },
       {
         "word": "eat",
         "prompt": "Eat. We eat dinner together. Eat.",
-        "audio-file": "eat.wav"
+        "audio-file": "eat"
       },
       {
         "word": "four",
         "prompt": "Four. I have four toys. Four.",
-        "audio-file": "four.wav"
+        "audio-file": "four"
       },
       {
         "word": "get",
         "prompt": "Get. Can you get the ball? Get.",
-        "audio-file": "get.wav"
+        "audio-file": "get"
       },
       {
         "word": "good",
         "prompt": "Good. This cake is good. Good.",
-        "audio-file": "good.wav"
+        "audio-file": "good"
       },
       {
         "word": "have",
         "prompt": "Have. I have a new book. Have.",
-        "audio-file": "have.wav"
+        "audio-file": "have"
       },
       {
         "word": "he",
         "prompt": "He. He runs very fast. He.",
-        "audio-file": "he.wav"
+        "audio-file": "he"
       },
       {
         "word": "into",
         "prompt": "Into. She jumped into the pool. Into.",
-        "audio-file": "into.wav"
+        "audio-file": "into"
       },
       {
         "word": "like",
         "prompt": "Like. I like to draw pictures. Like.",
-        "audio-file": "like.wav"
+        "audio-file": "like"
       },
       {
         "word": "must",
         "prompt": "Must. We must finish this now. Must.",
-        "audio-file": "must.wav"
+        "audio-file": "must"
       },
       {
         "word": "new",
         "prompt": "New. She got a new dress. New.",
-        "audio-file": "new.wav"
+        "audio-file": "new"
       },
       {
         "word": "no",
         "prompt": "No. There is no more candy. No.",
-        "audio-file": "no.wav"
+        "audio-file": "no"
       },
       {
         "word": "now",
         "prompt": "Now. Let’s play now. Now.",
-        "audio-file": "now.wav"
+        "audio-file": "now"
       },
       {
         "word": "on",
         "prompt": "On. The book is on the table. On.",
-        "audio-file": "on.wav"
+        "audio-file": "on"
       },
       {
         "word": "our",
         "prompt": "Our. This is our house. Our.",
-        "audio-file": "our.wav"
+        "audio-file": "our"
       },
       {
         "word": "out",
         "prompt": "Out. He went out to play. Out.",
-        "audio-file": "out.wav"
+        "audio-file": "out"
       },
       {
         "word": "please",
         "prompt": "Please. Can I have some, please? Please.",
-        "audio-file": "please.wav"
+        "audio-file": "please"
       },
       {
         "word": "pretty",
         "prompt": "Pretty. The flower is pretty. Pretty.",
-        "audio-file": "pretty.wav"
+        "audio-file": "pretty"
       },
       {
         "word": "ran",
         "prompt": "Ran. She ran to the door. Ran.",
-        "audio-file": "ran.wav"
+        "audio-file": "ran"
       },
       {
         "word": "ride",
         "prompt": "Ride. I can ride my bike. Ride.",
-        "audio-file": "ride.wav"
+        "audio-file": "ride"
       },
       {
         "word": "saw",
         "prompt": "Saw. He saw a big bird. Saw.",
-        "audio-file": "saw.wav"
+        "audio-file": "saw"
       },
       {
         "word": "say",
         "prompt": "Say. She will say hello. Say.",
-        "audio-file": "say.wav"
+        "audio-file": "say"
       },
       {
         "word": "she",
         "prompt": "She. She likes to sing. She.",
-        "audio-file": "she.wav"
+        "audio-file": "she"
       },
       {
         "word": "so",
         "prompt": "So. It is so hot today. So.",
-        "audio-file": "so.wav"
+        "audio-file": "so"
       },
       {
         "word": "soon",
         "prompt": "Soon. We will eat soon. Soon.",
-        "audio-file": "soon.wav"
+        "audio-file": "soon"
       },
       {
         "word": "that",
         "prompt": "That. That dog is big. That.",
-        "audio-file": "that.wav"
+        "audio-file": "that"
       },
       {
         "word": "there",
         "prompt": "There. The ball is over there. There.",
-        "audio-file": "there.wav"
+        "audio-file": "there"
       },
       {
         "word": "they",
         "prompt": "They. They are my friends. They.",
-        "audio-file": "they.wav"
+        "audio-file": "they"
       },
       {
         "word": "this",
         "prompt": "This. This is my pencil. This.",
-        "audio-file": "this.wav"
+        "audio-file": "this"
       },
       {
         "word": "too",
         "prompt": "Too. I want some too. Too.",
-        "audio-file": "too.wav"
+        "audio-file": "too"
       },
       {
         "word": "under",
         "prompt": "Under. The cat is under the bed. Under.",
-        "audio-file": "under.wav"
+        "audio-file": "under"
       },
       {
         "word": "want",
         "prompt": "Want. I want a snack. Want.",
-        "audio-file": "want.wav"
+        "audio-file": "want"
       },
       {
         "word": "was",
         "prompt": "Was. She was very tired. Was.",
-        "audio-file": "was.wav"
+        "audio-file": "was"
       },
       {
         "word": "well",
         "prompt": "Well. He did his work well. Well.",
-        "audio-file": "well.wav"
+        "audio-file": "well"
       },
       {
         "word": "went",
         "prompt": "Went. We went to the store. Went.",
-        "audio-file": "went.wav"
+        "audio-file": "went"
       },
       {
         "word": "what",
         "prompt": "What. What is your name? What.",
-        "audio-file": "what.wav"
+        "audio-file": "what"
       },
       {
         "word": "white",
         "prompt": "White. The snow is white. White.",
-        "audio-file": "white.wav"
+        "audio-file": "white"
       },
       {
         "word": "who",
         "prompt": "Who. Who is at the door? Who.",
-        "audio-file": "who.wav"
+        "audio-file": "who"
       },
       {
         "word": "will",
         "prompt": "Will. I will help you. Will.",
-        "audio-file": "will.wav"
+        "audio-file": "will"
       },
       {
         "word": "with",
         "prompt": "With. She plays with her dog. With.",
-        "audio-file": "with.wav"
+        "audio-file": "with"
       },
       {
         "word": "yes",
         "prompt": "Yes. Yes, I like it. Yes.",
-        "audio-file": "yes.wav"
+        "audio-file": "yes"
       }
     ]
 }

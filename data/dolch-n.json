@@ -1,0 +1,481 @@
+{
+    "title": "Level N",
+    "description": "Dolch Nouns list. 95 Words.",
+    "words": [
+      {
+        "word": "apple",
+        "prompt": "Apple. I ate a red apple. Apple.",
+        "audio-file": "apple"
+      },
+      {
+        "word": "baby",
+        "prompt": "Baby. The baby is sleeping. Baby.",
+        "audio-file": "baby"
+      },
+      {
+        "word": "back",
+        "prompt": "Back. He carried the pack on his back. Back.",
+        "audio-file": "back"
+      },
+      {
+        "word": "ball",
+        "prompt": "Ball. Let's play ball. Ball.",
+        "audio-file": "ball"
+      },
+      {
+        "word": "bear",
+        "prompt": "Bear. I saw a brown bear. Bear.",
+        "audio-file": "bear"
+      },
+      {
+        "word": "bed",
+        "prompt": "Bed. Time to go to bed. Bed.",
+        "audio-file": "bed"
+      },
+      {
+        "word": "bell",
+        "prompt": "Bell. The school bell rang. Bell.",
+        "audio-file": "bell"
+      },
+      {
+        "word": "bird",
+        "prompt": "Bird. A bird is singing in the tree. Bird.",
+        "audio-file": "bird"
+      },
+      {
+        "word": "birthday",
+        "prompt": "Birthday. Today is my birthday. Birthday.",
+        "audio-file": "birthday"
+      },
+      {
+        "word": "boat",
+        "prompt": "Boat. The boat sailed on the lake. Boat.",
+        "audio-file": "boat"
+      },
+      {
+        "word": "box",
+        "prompt": "Box. What is in the box? Box.",
+        "audio-file": "box"
+      },
+      {
+        "word": "boy",
+        "prompt": "Boy. The boy kicked the ball. Boy.",
+        "audio-file": "boy"
+      },
+      {
+        "word": "bread",
+        "prompt": "Bread. I like toast and bread. Bread.",
+        "audio-file": "bread"
+      },
+      {
+        "word": "brother",
+        "prompt": "Brother. My brother is older than me. Brother.",
+        "audio-file": "brother"
+      },
+      {
+        "word": "cake",
+        "prompt": "Cake. We ate birthday cake. Cake.",
+        "audio-file": "cake"
+      },
+      {
+        "word": "car",
+        "prompt": "Car. Dad drives the car. Car.",
+        "audio-file": "car"
+      },
+      {
+        "word": "cat",
+        "prompt": "Cat. The cat chased the mouse. Cat.",
+        "audio-file": "cat"
+      },
+      {
+        "word": "chair",
+        "prompt": "Chair. Please sit in the chair. Chair.",
+        "audio-file": "chair"
+      },
+      {
+        "word": "chicken",
+        "prompt": "Chicken. The chicken laid an egg. Chicken.",
+        "audio-file": "chicken"
+      },
+      {
+        "word": "children",
+        "prompt": "Children. The children are playing. Children.",
+        "audio-file": "children"
+      },
+      {
+        "word": "Christmas",
+        "prompt": "Christmas. Santa Claus comes at Christmas. Christmas.",
+        "audio-file": "christmas"
+      },
+      {
+        "word": "coat",
+        "prompt": "Coat. Put on your coat, it's cold. Coat.",
+        "audio-file": "coat"
+      },
+      {
+        "word": "corn",
+        "prompt": "Corn. We ate corn on the cob. Corn.",
+        "audio-file": "corn"
+      },
+      {
+        "word": "cow",
+        "prompt": "Cow. The cow says moo. Cow.",
+        "audio-file": "cow"
+      },
+      {
+        "word": "day",
+        "prompt": "Day. It's a sunny day. Day.",
+        "audio-file": "day"
+      },
+      {
+        "word": "dog",
+        "prompt": "Dog. My dog likes to fetch. Dog.",
+        "audio-file": "dog"
+      },
+      {
+        "word": "doll",
+        "prompt": "Doll. She played with her doll. Doll.",
+        "audio-file": "doll"
+      },
+      {
+        "word": "door",
+        "prompt": "Door. Please close the door. Door.",
+        "audio-file": "door"
+      },
+      {
+        "word": "duck",
+        "prompt": "Duck. The duck swims in the pond. Duck.",
+        "audio-file": "duck"
+      },
+      {
+        "word": "egg",
+        "prompt": "Egg. I had an egg for breakfast. Egg.",
+        "audio-file": "egg"
+      },
+      {
+        "word": "eye",
+        "prompt": "Eye. Close one eye. Eye.",
+        "audio-file": "eye"
+      },
+      {
+        "word": "farm",
+        "prompt": "Farm. We visited a farm. Farm.",
+        "audio-file": "farm"
+      },
+      {
+        "word": "farmer",
+        "prompt": "Farmer. The farmer grows food. Farmer.",
+        "audio-file": "farmer"
+      },
+      {
+        "word": "father",
+        "prompt": "Father. My father reads me stories. Father.",
+        "audio-file": "father"
+      },
+      {
+        "word": "feet",
+        "prompt": "Feet. Wash your feet. Feet.",
+        "audio-file": "feet"
+      },
+      {
+        "word": "fire",
+        "prompt": "Fire. The fire keeps us warm. Fire.",
+        "audio-file": "fire"
+      },
+      {
+        "word": "fish",
+        "prompt": "Fish. The fish swims in the water. Fish.",
+        "audio-file": "fish"
+      },
+      {
+        "word": "floor",
+        "prompt": "Floor. Don't drop food on the floor. Floor.",
+        "audio-file": "floor"
+      },
+      {
+        "word": "flower",
+        "prompt": "Flower. That is a pretty flower. Flower.",
+        "audio-file": "flower"
+      },
+      {
+        "word": "game",
+        "prompt": "Game. Let's play a game. Game.",
+        "audio-file": "game"
+      },
+      {
+        "word": "garden",
+        "prompt": "Garden. We grow vegetables in the garden. Garden.",
+        "audio-file": "garden"
+      },
+      {
+        "word": "girl",
+        "prompt": "Girl. The girl has a red dress. Girl.",
+        "audio-file": "girl"
+      },
+      {
+        "word": "goodbye",
+        "prompt": "Goodbye. It was time to say goodbye. Goodbye.",
+        "audio-file": "goodbye"
+      },
+      {
+        "word": "grass",
+        "prompt": "Grass. The grass is green. Grass.",
+        "audio-file": "grass"
+      },
+      {
+        "word": "ground",
+        "prompt": "Ground. The ball fell on the ground. Ground.",
+        "audio-file": "ground"
+      },
+      {
+        "word": "hand",
+        "prompt": "Hand. Raise your hand. Hand.",
+        "audio-file": "hand"
+      },
+      {
+        "word": "head",
+        "prompt": "Head. Pat your head. Head.",
+        "audio-file": "head"
+      },
+      {
+        "word": "hill",
+        "prompt": "Hill. We climbed up the hill. Hill.",
+        "audio-file": "hill"
+      },
+      {
+        "word": "home",
+        "prompt": "Home. Let's go home. Home.",
+        "audio-file": "home"
+      },
+      {
+        "word": "horse",
+        "prompt": "Horse. The horse runs fast. Horse.",
+        "audio-file": "horse"
+      },
+      {
+        "word": "house",
+        "prompt": "House. We live in a blue house. House.",
+        "audio-file": "house"
+      },
+      {
+        "word": "kitty",
+        "prompt": "Kitty. The kitty is soft. Kitty.",
+        "audio-file": "kitty"
+      },
+      {
+        "word": "leg",
+        "prompt": "Leg. The table has four legs. Leg.",
+        "audio-file": "leg"
+      },
+      {
+        "word": "letter",
+        "prompt": "Letter. I got a letter in the mail. Letter.",
+        "audio-file": "letter"
+      },
+      {
+        "word": "man",
+        "prompt": "Man. The man walked down the street. Man.",
+        "audio-file": "man"
+      },
+      {
+        "word": "men",
+        "prompt": "Men. Two men helped carry the box. Men.",
+        "audio-file": "men"
+      },
+      {
+        "word": "milk",
+        "prompt": "Milk. Drink your milk. Milk.",
+        "audio-file": "milk"
+      },
+      {
+        "word": "money",
+        "prompt": "Money. I need money to buy candy. Money.",
+        "audio-file": "money"
+      },
+      {
+        "word": "morning",
+        "prompt": "Morning. Good morning! Morning.",
+        "audio-file": "morning"
+      },
+      {
+        "word": "mother",
+        "prompt": "Mother. My mother tucked me in. Mother.",
+        "audio-file": "mother"
+      },
+      {
+        "word": "name",
+        "prompt": "Name. What is your name? Name.",
+        "audio-file": "name"
+      },
+      {
+        "word": "nest",
+        "prompt": "Nest. The bird built a nest. Nest.",
+        "audio-file": "nest"
+      },
+      {
+        "word": "night",
+        "prompt": "Night. It gets dark at night. Night.",
+        "audio-file": "night"
+      },
+      {
+        "word": "paper",
+        "prompt": "Paper. Draw on the paper. Paper.",
+        "audio-file": "paper"
+      },
+      {
+        "word": "party",
+        "prompt": "Party. We are having a birthday party. Party.",
+        "audio-file": "party"
+      },
+      {
+        "word": "picture",
+        "prompt": "Picture. Look at this picture. Picture.",
+        "audio-file": "picture"
+      },
+      {
+        "word": "pig",
+        "prompt": "Pig. The pig lives on the farm. Pig.",
+        "audio-file": "pig"
+      },
+      {
+        "word": "rabbit",
+        "prompt": "Rabbit. The rabbit hopped away. Rabbit.",
+        "audio-file": "rabbit"
+      },
+      {
+        "word": "rain",
+        "prompt": "Rain. I like the sound of rain. Rain.",
+        "audio-file": "rain"
+      },
+      {
+        "word": "ring",
+        "prompt": "Ring. She wore a gold ring. Ring.",
+        "audio-file": "ring"
+      },
+      {
+        "word": "robin",
+        "prompt": "Robin. A robin has a red breast. Robin.",
+        "audio-file": "robin"
+      },
+      {
+        "word": "Santa Claus",
+        "prompt": "Santa Claus. Santa Claus brings presents. Santa Claus.",
+        "audio-file": "santaclaus"
+      },
+      {
+        "word": "school",
+        "prompt": "School. It's time for school. School.",
+        "audio-file": "school"
+      },
+      {
+        "word": "seed",
+        "prompt": "Seed. Plant a seed and it will grow. Seed.",
+        "audio-file": "seed"
+      },
+      {
+        "word": "sheep",
+        "prompt": "Sheep. The sheep has wool. Sheep.",
+        "audio-file": "sheep"
+      },
+      {
+        "word": "shoe",
+        "prompt": "Shoe. Tie your shoe. Shoe.",
+        "audio-file": "shoe"
+      },
+      {
+        "word": "sister",
+        "prompt": "Sister. My sister plays with me. Sister.",
+        "audio-file": "sister"
+      },
+      {
+        "word": "snow",
+        "prompt": "Snow. Let's play in the snow. Snow.",
+        "audio-file": "snow"
+      },
+      {
+        "word": "song",
+        "prompt": "Song. Sing a happy song. Song.",
+        "audio-file": "song"
+      },
+      {
+        "word": "squirrel",
+        "prompt": "Squirrel. The squirrel climbed the tree. Squirrel.",
+        "audio-file": "squirrel"
+      },
+      {
+        "word": "stick",
+        "prompt": "Stick. The dog fetched the stick. Stick.",
+        "audio-file": "stick"
+      },
+      {
+        "word": "street",
+        "prompt": "Street. Look both ways before crossing the street. Street.",
+        "audio-file": "street"
+      },
+      {
+        "word": "sun",
+        "prompt": "Sun. The sun is bright today. Sun.",
+        "audio-file": "sun"
+      },
+      {
+        "word": "table",
+        "prompt": "Table. Set the table for dinner. Table.",
+        "audio-file": "table"
+      },
+      {
+        "word": "thing",
+        "prompt": "Thing. What is that thing? Thing.",
+        "audio-file": "thing"
+      },
+      {
+        "word": "time",
+        "prompt": "Time. What time is it? Time.",
+        "audio-file": "time"
+      },
+      {
+        "word": "top",
+        "prompt": "Top. He reached the top of the hill. Top.",
+        "audio-file": "top"
+      },
+      {
+        "word": "toy",
+        "prompt": "Toy. Put away your toy. Toy.",
+        "audio-file": "toy"
+      },
+      {
+        "word": "tree",
+        "prompt": "Tree. Birds live in the tree. Tree.",
+        "audio-file": "tree"
+      },
+      {
+        "word": "watch",
+        "prompt": "Watch. My watch tells the time. Watch.",
+        "audio-file": "watch"
+      },
+      {
+        "word": "water",
+        "prompt": "Water. Drink some water. Water.",
+        "audio-file": "water"
+      },
+      {
+        "word": "way",
+        "prompt": "Way. Which way should we go? Way.",
+        "audio-file": "way"
+      },
+      {
+        "word": "wind",
+        "prompt": "Wind. The wind is blowing strong. Wind.",
+        "audio-file": "wind"
+      },
+      {
+        "word": "window",
+        "prompt": "Window. Look out the window. Window.",
+        "audio-file": "window"
+      },
+      {
+        "word": "wood",
+        "prompt": "Wood. The chair is made of wood. Wood.",
+        "audio-file": "wood"
+      }
+    ]
+  }

@@ -1,0 +1,211 @@
+{
+    "title": "Level 1",
+    "description": "Dolch First Grade list. 41 Words.",
+    "words": [
+      {
+        "word": "after",
+        "prompt": "After. We played after school. After.",
+        "audio-file": "after"
+      },
+      {
+        "word": "again",
+        "prompt": "Again. Let's read the story again. Again.",
+        "audio-file": "again"
+      },
+      {
+        "word": "an",
+        "prompt": "An. I saw an apple tree. An.",
+        "audio-file": "an"
+      },
+      {
+        "word": "any",
+        "prompt": "Any. Do you have any questions? Any.",
+        "audio-file": "any"
+      },
+      {
+        "word": "as",
+        "prompt": "As. He is as tall as his brother. As.",
+        "audio-file": "as"
+      },
+      {
+        "word": "ask",
+        "prompt": "Ask. Please ask for help if you need it. Ask.",
+        "audio-file": "ask"
+      },
+      {
+        "word": "by",
+        "prompt": "By. The book was written by her. By.",
+        "audio-file": "by"
+      },
+      {
+        "word": "could",
+        "prompt": "Could. Could you pass the salt? Could.",
+        "audio-file": "could"
+      },
+      {
+        "word": "every",
+        "prompt": "Every. Every student received a book. Every.",
+        "audio-file": "every"
+      },
+      {
+        "word": "fly",
+        "prompt": "Fly. Birds can fly in the sky. Fly.",
+        "audio-file": "fly"
+      },
+      {
+        "word": "from",
+        "prompt": "From. I got a letter from my friend. From.",
+        "audio-file": "from"
+      },
+      {
+        "word": "give",
+        "prompt": "Give. Please give her the pencil. Give.",
+        "audio-file": "give"
+      },
+      {
+        "word": "going",
+        "prompt": "Going. We are going to the park. Going.",
+        "audio-file": "going"
+      },
+      {
+        "word": "had",
+        "prompt": "Had. She had a little lamb. Had.",
+        "audio-file": "had"
+      },
+      {
+        "word": "has",
+        "prompt": "Has. He has a red ball. Has.",
+        "audio-file": "has"
+      },
+      {
+        "word": "her",
+        "prompt": "Her. That is her coat. Her.",
+        "audio-file": "her"
+      },
+      {
+        "word": "him",
+        "prompt": "Him. Give the book to him. Him.",
+        "audio-file": "him"
+      },
+      {
+        "word": "his",
+        "prompt": "His. That is his bicycle. His.",
+        "audio-file": "his"
+      },
+      {
+        "word": "how",
+        "prompt": "How. How are you feeling today? How.",
+        "audio-file": "how"
+      },
+      {
+        "word": "just",
+        "prompt": "Just. I just finished my homework. Just.",
+        "audio-file": "just"
+      },
+      {
+        "word": "know",
+        "prompt": "Know. Do you know the answer? Know.",
+        "audio-file": "know"
+      },
+      {
+        "word": "let",
+        "prompt": "Let. Let me help you with that. Let.",
+        "audio-file": "let"
+      },
+      {
+        "word": "live",
+        "prompt": "Live. Fish live in the water. Live.",
+        "audio-file": "live"
+      },
+      {
+        "word": "may",
+        "prompt": "May. May I borrow your crayon? May.",
+        "audio-file": "may"
+      },
+      {
+        "word": "of",
+        "prompt": "Of. She is a friend of mine. Of.",
+        "audio-file": "of"
+      },
+      {
+        "word": "old",
+        "prompt": "Old. My grandfather is very old. Old.",
+        "audio-file": "old"
+      },
+      {
+        "word": "once",
+        "prompt": "Once. Once upon a time, there was a king. Once.",
+        "audio-file": "once"
+      },
+      {
+        "word": "open",
+        "prompt": "Open. Please open the window. Open.",
+        "audio-file": "open"
+      },
+      {
+        "word": "over",
+        "prompt": "Over. The cow jumped over the moon. Over.",
+        "audio-file": "over"
+      },
+      {
+        "word": "put",
+        "prompt": "Put. Put your toys away, please. Put.",
+        "audio-file": "put"
+      },
+      {
+        "word": "round",
+        "prompt": "Round. The ball is round. Round.",
+        "audio-file": "round"
+      },
+      {
+        "word": "some",
+        "prompt": "Some. Can I have some juice? Some.",
+        "audio-file": "some"
+      },
+      {
+        "word": "stop",
+        "prompt": "Stop. Stop at the red light. Stop.",
+        "audio-file": "stop"
+      },
+      {
+        "word": "take",
+        "prompt": "Take. Please take your coat. Take.",
+        "audio-file": "take"
+      },
+      {
+        "word": "thank",
+        "prompt": "Thank. Thank you for your help. Thank.",
+        "audio-file": "thank"
+      },
+      {
+        "word": "them",
+        "prompt": "Them. Give the cookies to them. Them.",
+        "audio-file": "them"
+      },
+      {
+        "word": "then",
+        "prompt": "Then. First we work, then we play. Then.",
+        "audio-file": "then"
+      },
+      {
+        "word": "think",
+        "prompt": "Think. I think it might rain today. Think.",
+        "audio-file": "think"
+      },
+      {
+        "word": "walk",
+        "prompt": "Walk. Let's walk to the park. Walk.",
+        "audio-file": "walk"
+      },
+      {
+        "word": "were",
+        "prompt": "Were. They were playing outside. Were.",
+        "audio-file": "were"
+      },
+      {
+        "word": "when",
+        "prompt": "When. When is your birthday? When.",
+        "audio-file": "when"
+      }
+    ]
+  }

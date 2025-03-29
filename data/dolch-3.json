@@ -1,0 +1,211 @@
+{
+    "title": "Level 3",
+    "description": "Dolch Third Grade list. 41 Words.",
+    "words": [
+      {
+        "word": "about",
+        "prompt": "About. Tell me about your day. About.",
+        "audio-file": "about"
+      },
+      {
+        "word": "better",
+        "prompt": "Better. I feel much better today. Better.",
+        "audio-file": "better"
+      },
+      {
+        "word": "bring",
+        "prompt": "Bring. Please bring your book to class. Bring.",
+        "audio-file": "bring"
+      },
+      {
+        "word": "carry",
+        "prompt": "Carry. Can you help me carry these bags? Carry.",
+        "audio-file": "carry"
+      },
+      {
+        "word": "clean",
+        "prompt": "Clean. Keep your room clean. Clean.",
+        "audio-file": "clean"
+      },
+      {
+        "word": "cut",
+        "prompt": "Cut. Be careful when you cut the paper. Cut.",
+        "audio-file": "cut"
+      },
+      {
+        "word": "done",
+        "prompt": "Done. Are you done with your homework? Done.",
+        "audio-file": "done"
+      },
+      {
+        "word": "draw",
+        "prompt": "Draw. I like to draw pictures. Draw.",
+        "audio-file": "draw"
+      },
+      {
+        "word": "drink",
+        "prompt": "Drink. Remember to drink plenty of water. Drink.",
+        "audio-file": "drink"
+      },
+      {
+        "word": "eight",
+        "prompt": "Eight. There are eight legs on a spider. Eight.",
+        "audio-file": "eight"
+      },
+      {
+        "word": "fall",
+        "prompt": "Fall. Leaves fall from the trees in autumn. Fall.",
+        "audio-file": "fall"
+      },
+      {
+        "word": "far",
+        "prompt": "Far. The store is not far from here. Far.",
+        "audio-file": "far"
+      },
+      {
+        "word": "full",
+        "prompt": "Full. My tummy is full after dinner. Full.",
+        "audio-file": "full"
+      },
+      {
+        "word": "got",
+        "prompt": "Got. I got a new book from the library. Got.",
+        "audio-file": "got"
+      },
+      {
+        "word": "grow",
+        "prompt": "Grow. Plants need sun and water to grow. Grow.",
+        "audio-file": "grow"
+      },
+      {
+        "word": "hold",
+        "prompt": "Hold. Please hold my hand when we cross the street. Hold.",
+        "audio-file": "hold"
+      },
+      {
+        "word": "hot",
+        "prompt": "Hot. The soup is very hot. Hot.",
+        "audio-file": "hot"
+      },
+      {
+        "word": "hurt",
+        "prompt": "Hurt. I fell down and hurt my knee. Hurt.",
+        "audio-file": "hurt"
+      },
+      {
+        "word": "if",
+        "prompt": "If. If it rains, we will stay inside. If.",
+        "audio-file": "if"
+      },
+      {
+        "word": "keep",
+        "prompt": "Keep. Please keep the door closed. Keep.",
+        "audio-file": "keep"
+      },
+      {
+        "word": "kind",
+        "prompt": "Kind. It is important to be kind to others. Kind.",
+        "audio-file": "kind"
+      },
+      {
+        "word": "laugh",
+        "prompt": "Laugh. His jokes always make me laugh. Laugh.",
+        "audio-file": "laugh"
+      },
+      {
+        "word": "light",
+        "prompt": "Light. Turn on the light so I can see. Light.",
+        "audio-file": "light"
+      },
+      {
+        "word": "long",
+        "prompt": "Long. That is a very long train. Long.",
+        "audio-file": "long"
+      },
+      {
+        "word": "much",
+        "prompt": "Much. Thank you very much. Much.",
+        "audio-file": "much"
+      },
+      {
+        "word": "myself",
+        "prompt": "Myself. I can tie my shoes myself. Myself.",
+        "audio-file": "myself"
+      },
+      {
+        "word": "never",
+        "prompt": "Never. I have never seen a purple cow. Never.",
+        "audio-file": "never"
+      },
+      {
+        "word": "only",
+        "prompt": "Only. There is only one cookie left. Only.",
+        "audio-file": "only"
+      },
+      {
+        "word": "own",
+        "prompt": "Own. I have my own bedroom. Own.",
+        "audio-file": "own"
+      },
+      {
+        "word": "pick",
+        "prompt": "Pick. Please pick up your toys. Pick.",
+        "audio-file": "pick"
+      },
+      {
+        "word": "seven",
+        "prompt": "Seven. There are seven days in a week. Seven.",
+        "audio-file": "seven"
+      },
+      {
+        "word": "shall",
+        "prompt": "Shall. Shall we go for a walk? Shall.",
+        "audio-file": "shall"
+      },
+      {
+        "word": "show",
+        "prompt": "Show. Can you show me how to do that? Show.",
+        "audio-file": "show"
+      },
+      {
+        "word": "six",
+        "prompt": "Six. A hexagon has six sides. Six.",
+        "audio-file": "six"
+      },
+      {
+        "word": "small",
+        "prompt": "Small. The mouse is very small. Small.",
+        "audio-file": "small"
+      },
+      {
+        "word": "start",
+        "prompt": "Start. Let's start the game. Start.",
+        "audio-file": "start"
+      },
+      {
+        "word": "ten",
+        "prompt": "Ten. I have ten fingers. Ten.",
+        "audio-file": "ten"
+      },
+      {
+        "word": "today",
+        "prompt": "Today. What is the date today? Today.",
+        "audio-file": "today"
+      },
+      {
+        "word": "together",
+        "prompt": "Together. We like to play together. Together.",
+        "audio-file": "together"
+      },
+      {
+        "word": "try",
+        "prompt": "Try. Always try your best. Try.",
+        "audio-file": "try"
+      },
+      {
+        "word": "warm",
+        "prompt": "Warm. The blanket keeps me warm. Warm.",
+        "audio-file": "warm"
+      }
+    ]
+  }
