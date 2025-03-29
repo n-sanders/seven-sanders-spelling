@@ -190,7 +190,7 @@ function createWordBlanks(length) {
 function highlightActiveBox() {
   const boxes = document.querySelectorAll('.letter-box');
   boxes.forEach((box, index) => {
-    box.style.backgroundColor = index === currentPos ? '#e0e0e0' : 'white';
+    box.style.backgroundColor = index === currentPos ? '#60292478' : 'white';
   });
 }
 
