@@ -18,7 +18,8 @@ module.exports = async (req, res) => {
       { id: 'dolch-1', name: 'Dolch First Grade' },
       { id: 'dolch-2', name: 'Dolch Second Grade' },
       { id: 'dolch-3', name: 'Dolch Third Grade' },
-      { id: 'dolch-n', name: 'Dolch Nouns' }
+      { id: 'dolch-n', name: 'Dolch Nouns' },
+      { id: 'evie-1', name: 'Evie\'s Challenge Words' }
     ];
     
     res.json({ lists });

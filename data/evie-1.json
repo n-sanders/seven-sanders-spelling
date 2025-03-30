@@ -1,0 +1,91 @@
+{
+    "title": "Level Evie",
+    "description": "Evie's Challenge Words list. 17 Words.",
+    "words": [
+      {
+        "word": "adequate",
+        "prompt": "Adequate. That amount is adequate for the recipe. Adequate.",
+        "audio-file": "adequate"
+      },
+      {
+        "word": "accommodations",
+        "prompt": "Accommodations. The hotel accommodations were very nice. Accommodations.",
+        "audio-file": "accommodations"
+      },
+      {
+        "word": "absolutely",
+        "prompt": "Absolutely. Are you absolutely sure about that? Absolutely.",
+        "audio-file": "absolutely"
+      },
+      {
+        "word": "positive",
+        "prompt": "Positive. It's important to have a positive attitude. Positive.",
+        "audio-file": "positive"
+      },
+      {
+        "word": "achieve",
+        "prompt": "Achieve. You can achieve your goals with hard work. Achieve.",
+        "audio-file": "achieve"
+      },
+      {
+        "word": "aspirations",
+        "prompt": "Aspirations. She has high aspirations for her future career. Aspirations.",
+        "audio-file": "aspirations"
+      },
+      {
+        "word": "acquire",
+        "prompt": "Acquire. We need to acquire more knowledge on the subject. Acquire.",
+        "audio-file": "acquire"
+      },
+      {
+        "word": "necessary",
+        "prompt": "Necessary. Bring only the necessary items for the trip. Necessary.",
+        "audio-file": "necessary"
+      },
+      {
+        "word": "accessories",
+        "prompt": "Accessories. She bought matching accessories for her new dress. Accessories.",
+        "audio-file": "accessories"
+      },
+      {
+        "word": "algebra",
+        "prompt": "Algebra. We are learning algebra in math class. Algebra.",
+        "audio-file": "algebra"
+      },
+      {
+        "word": "aluminum",
+        "prompt": "Aluminum. Soda cans are often made of aluminum. Aluminum.",
+        "audio-file": "aluminum"
+      },
+      {
+        "word": "ballerina",
+        "prompt": "Ballerina. The ballerina danced gracefully across the stage. Ballerina.",
+        "audio-file": "ballerina"
+      },
+      {
+        "word": "beautifully",
+        "prompt": "Beautifully. She sings beautifully. Beautifully.",
+        "audio-file": "beautifully"
+      },
+      {
+        "word": "broad",
+        "prompt": "Broad. The road was very broad. Broad.",
+        "audio-file": "broad"
+      },
+      {
+        "word": "beginning",
+        "prompt": "Beginning. Let's start at the beginning of the story. Beginning.",
+        "audio-file": "beginning"
+      },
+      {
+        "word": "believe",
+        "prompt": "Believe. Do you believe in magic? Believe.",
+        "audio-file": "believe"
+      },
+      {
+        "word": "bouquets",
+        "prompt": "Bouquets. The florist arranged several beautiful bouquets. Bouquets.",
+        "audio-file": "bouquets"
+      }
+    ]
+  }
