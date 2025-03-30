@@ -295,7 +295,7 @@ document.addEventListener('DOMContentLoaded', () => {
   // Check button
   document.getElementById('check-btn').addEventListener('click', () => {
     const userInput = enteredLetters.join('');
-    if (userInput === currentWord) {
+    if (userInput.toLowerCase() === currentWord.toLowerCase()) {
       let result = currentAttempts === 0 ? 'correct-first' : 'correct-second';
       showFeedback('Correct!');
       updateProgress(currentWord, currentAttempts + 1, result);

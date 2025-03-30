@@ -1,6 +1,6 @@
 {
-    "title": "Level Evie",
-    "description": "Evie's Challenge Words list. 17 Words.",
+    "title": "Level E",
+    "description": "Evie's Challenge Words list. 18 Words.",
     "words": [
       {
         "word": "adequate",
@@ -86,6 +86,11 @@
         "word": "bouquets",
         "prompt": "Bouquets. The florist arranged several beautiful bouquets. Bouquets.",
         "audio-file": "bouquets"
+      },
+      {
+        "word": "antidisestablishmentarianism",
+        "prompt": "Antidisestablishmentarianism. That is a very long word! Antidisestablishmentarianism.",
+        "audio-file": "antidisestablishmentarianism"
       }
     ]
   }
