@@ -20,12 +20,23 @@ module.exports = async (req, res) => {
   const word = req.query.word;
   const prompt = req.query.prompt;
 
+  // Validate environment variables
+  if (!process.env.BLOB_READ_WRITE_TOKEN) {
+    console.error('Missing BLOB_READ_WRITE_TOKEN environment variable');
+    return res.status(500).json({ error: 'Server configuration error: Missing blob token' });
+  }
+
+  if (!process.env.CARTESIA_API_KEY) {
+    console.error('Missing CARTESIA_API_KEY environment variable');
+    return res.status(500).json({ error: 'Server configuration error: Missing API key' });
+  }
+
   const apiKey = process.env.CARTESIA_API_KEY;
   const voiceId = "694f9389-aac1-45b6-b726-9d9369183238";
   const audioFileName = `${word}.wav`;
 
   console.log("Checking Blob for:", audioFileName);
-  console.log("Blob config:", blobConfig);
+  console.log("Blob config token exists:", !!blobConfig.token);
   try {
     // Check if the file exists in Blob storage using head
     let existingBlob;
@@ -37,6 +48,7 @@ module.exports = async (req, res) => {
         console.log("File not found in Blob, will generate new audio.");
         existingBlob = null;
       } else {
+        console.error("Blob head error:", error.message, error.stack);
         throw error;
       }
     }
@@ -73,7 +85,7 @@ module.exports = async (req, res) => {
     });
 
     if (!cartesiaResponse.ok) {
-      console.log("Cartesia response status:", cartesiaResponse.status);
+      console.error("Cartesia response status:", cartesiaResponse.status);
       throw new Error(`Cartesia API error: ${cartesiaResponse.statusText}`);
     }
 
