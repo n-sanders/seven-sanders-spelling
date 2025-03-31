@@ -1,0 +1,246 @@
+{
+    "title": "TGTB Language 4 Spelling List D",
+    "description": "A list of 48 spelling words.",
+    "words": [
+      {
+        "word": "marvelous",
+        "prompt": "Marvelous. The view from the mountaintop was marvelous. Marvelous.",
+        "audio-file": "marvelous"
+      },
+      {
+        "word": "rhyme",
+        "prompt": "Rhyme. Can you find a word that will rhyme with 'cat'? Rhyme.",
+        "audio-file": "rhyme"
+      },
+      {
+        "word": "signature",
+        "prompt": "Signature. Please put your signature on the dotted line. Signature.",
+        "audio-file": "signature"
+      },
+      {
+        "word": "yacht",
+        "prompt": "Yacht. They sailed their luxury yacht across the ocean. Yacht.",
+        "audio-file": "yacht"
+      },
+      {
+        "word": "sincerely",
+        "prompt": "Sincerely. Please sign the letter 'Sincerely yours'. Sincerely.",
+        "audio-file": "sincerely"
+      },
+      {
+        "word": "available",
+        "prompt": "Available. Is this seat available? Available.",
+        "audio-file": "available"
+      },
+      {
+        "word": "issue",
+        "prompt": "Issue. We need to discuss this important issue. Issue.",
+        "audio-file": "issue"
+      },
+      {
+        "word": "broccoli",
+        "prompt": "Broccoli. Broccoli is a healthy green vegetable. Broccoli.",
+        "audio-file": "broccoli"
+      },
+      {
+        "word": "usually",
+        "prompt": "Usually. I usually walk to school in the morning. Usually.",
+        "audio-file": "usually"
+      },
+      {
+        "word": "disastrous",
+        "prompt": "Disastrous. The earthquake had disastrous effects on the city. Disastrous.",
+        "audio-file": "disastrous"
+      },
+      {
+        "word": "embarrass",
+        "prompt": "Embarrass. Please don't embarrass me in front of my friends. Embarrass.",
+        "audio-file": "embarrass"
+      },
+      {
+        "word": "environment",
+        "prompt": "Environment. We need to protect the environment. Environment.",
+        "audio-file": "environment"
+      },
+      {
+        "word": "physical",
+        "prompt": "Physical. Running requires physical effort. Physical.",
+        "audio-file": "physical"
+      },
+      {
+        "word": "actually",
+        "prompt": "Actually. I thought it was Tuesday, but it's actually Wednesday. Actually.",
+        "audio-file": "actually"
+      },
+      {
+        "word": "measure",
+        "prompt": "Measure. Please measure the length of the table. Measure.",
+        "audio-file": "measure"
+      },
+      {
+        "word": "absence",
+        "prompt": "Absence. Your absence was noted at the meeting. Absence.",
+        "audio-file": "absence"
+      },
+      {
+        "word": "scholarship",
+        "prompt": "Scholarship. She received a scholarship to attend college. Scholarship.",
+        "audio-file": "scholarship"
+      },
+      {
+        "word": "delicious",
+        "prompt": "Delicious. The cake was absolutely delicious. Delicious.",
+        "audio-file": "delicious"
+      },
+      {
+        "word": "furniture",
+        "prompt": "Furniture. We bought new furniture for the living room. Furniture.",
+        "audio-file": "furniture"
+      },
+      {
+        "word": "bargain",
+        "prompt": "Bargain. This shirt was a real bargain. Bargain.",
+        "audio-file": "bargain"
+      },
+      {
+        "word": "fountain",
+        "prompt": "Fountain. Children splashed in the park fountain. Fountain.",
+        "audio-file": "fountain"
+      },
+      {
+        "word": "individual",
+        "prompt": "Individual. Each individual student received an award. Individual.",
+        "audio-file": "individual"
+      },
+      {
+        "word": "surround",
+        "prompt": "Surround. Tall trees surround the house. Surround.",
+        "audio-file": "surround"
+      },
+      {
+        "word": "disappear",
+        "prompt": "Disappear. The magician made the rabbit disappear. Disappear.",
+        "audio-file": "disappear"
+      },
+      {
+        "word": "village",
+        "prompt": "Village. They live in a small village in the countryside. Village.",
+        "audio-file": "village"
+      },
+      {
+        "word": "mosquito",
+        "prompt": "Mosquito. A mosquito buzzed around my head. Mosquito.",
+        "audio-file": "mosquito"
+      },
+      {
+        "word": "fascinating",
+        "prompt": "Fascinating. The documentary about space was fascinating. Fascinating.",
+        "audio-file": "fascinating"
+      },
+      {
+        "word": "brilliant",
+        "prompt": "Brilliant. The diamond shone with a brilliant light. Brilliant.",
+        "audio-file": "brilliant"
+      },
+      {
+        "word": "ceiling",
+        "prompt": "Ceiling. A fan hung from the ceiling. Ceiling.",
+        "audio-file": "ceiling"
+      },
+      {
+        "word": "grammar",
+        "prompt": "Grammar. Good grammar is important for clear writing. Grammar.",
+        "audio-file": "grammar"
+      },
+      {
+        "word": "guarantee",
+        "prompt": "Guarantee. The store offers a guarantee on all its products. Guarantee.",
+        "audio-file": "guarantee"
+      },
+      {
+        "word": "marriage",
+        "prompt": "Marriage. They celebrated their fiftieth year of marriage. Marriage.",
+        "audio-file": "marriage"
+      },
+      {
+        "word": "peculiar",
+        "prompt": "Peculiar. The fruit had a peculiar taste. Peculiar.",
+        "audio-file": "peculiar"
+      },
+      {
+        "word": "license",
+        "prompt": "License. You need a driver's license to operate a car. License.",
+        "audio-file": "license"
+      },
+      {
+        "word": "Messiah",
+        "prompt": "Messiah. Christians believe Jesus is the Messiah. Messiah.",
+        "audio-file": "messiah"
+      },
+      {
+        "word": "cashier",
+        "prompt": "Cashier. The cashier scanned the items at the checkout. Cashier.",
+        "audio-file": "cashier"
+      },
+      {
+        "word": "mileage",
+        "prompt": "Mileage. This car gets good gas mileage. Mileage.",
+        "audio-file": "mileage"
+      },
+      {
+        "word": "mortgage",
+        "prompt": "Mortgage. They took out a mortgage to buy their house. Mortgage.",
+        "audio-file": "mortgage"
+      },
+      {
+        "word": "Pharaoh",
+        "prompt": "Pharaoh. The Pharaoh was the ruler of ancient Egypt. Pharaoh.",
+        "audio-file": "pharaoh"
+      },
+      {
+        "word": "parallel",
+        "prompt": "Parallel. Railroad tracks run parallel to each other. Parallel.",
+        "audio-file": "parallel"
+      },
+      {
+        "word": "abbreviation",
+        "prompt": "Abbreviation. 'Dr.' is the abbreviation for 'Doctor'. Abbreviation.",
+        "audio-file": "abbreviation"
+      },
+      {
+        "word": "antique",
+        "prompt": "Antique. She collects antique furniture. Antique.",
+        "audio-file": "antique"
+      },
+      {
+        "word": "reindeer",
+        "prompt": "Reindeer. Santa's sleigh is pulled by reindeer. Reindeer.",
+        "audio-file": "reindeer"
+      },
+      {
+        "word": "humid",
+        "prompt": "Humid. The weather is hot and humid today. Humid.",
+        "audio-file": "humid"
+      },
+      {
+        "word": "judgment",
+        "prompt": "Judgment. Use your best judgment when making the decision. Judgment.",
+        "audio-file": "judgment"
+      },
+      {
+        "word": "opposite",
+        "prompt": "Opposite. Black is the opposite of white. Opposite.",
+        "audio-file": "opposite"
+      },
+      {
+        "word": "mischievous",
+        "prompt": "Mischievous. The mischievous kitten knocked over the vase. Mischievous.",
+        "audio-file": "mischievous"
+      },
+      {
+        "word": "pyramid",
+        "prompt": "Pyramid. We visited the ancient pyramid in Egypt. Pyramid.",
+        "audio-file": "pyramid"
+      }
+    ]
+  }

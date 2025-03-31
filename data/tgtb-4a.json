@@ -1,0 +1,266 @@
+{
+    "title": "TGTB Language 4 Spelling List A",
+    "description": "A list of 52 spelling words.",
+    "words": [
+      {
+        "word": "danger",
+        "prompt": "Danger. Be aware of the danger. Danger.",
+        "audio-file": "danger"
+      },
+      {
+        "word": "country",
+        "prompt": "Country. France is a beautiful country. Country.",
+        "audio-file": "country"
+      },
+      {
+        "word": "people",
+        "prompt": "People. Many people attended the event. People.",
+        "audio-file": "people"
+      },
+      {
+        "word": "America",
+        "prompt": "America. We live in America. America.",
+        "audio-file": "america"
+      },
+      {
+        "word": "because",
+        "prompt": "Because. I stayed home because I was sick. Because.",
+        "audio-file": "because"
+      },
+      {
+        "word": "wrist",
+        "prompt": "Wrist. I hurt my wrist playing tennis. Wrist.",
+        "audio-file": "wrist"
+      },
+      {
+        "word": "muscle",
+        "prompt": "Muscle. He strained a muscle in his leg. Muscle.",
+        "audio-file": "muscle"
+      },
+      {
+        "word": "million",
+        "prompt": "Million. The city has over a million people. Million.",
+        "audio-file": "million"
+      },
+      {
+        "word": "tomorrow",
+        "prompt": "Tomorrow. The meeting is scheduled for tomorrow. Tomorrow.",
+        "audio-file": "tomorrow"
+      },
+      {
+        "word": "unique",
+        "prompt": "Unique. Each snowflake is unique. Unique.",
+        "audio-file": "unique"
+      },
+      {
+        "word": "thumb",
+        "prompt": "Thumb. He hit his thumb with the hammer. Thumb.",
+        "audio-file": "thumb"
+      },
+      {
+        "word": "finger",
+        "prompt": "Finger. She pointed her finger at the map. Finger.",
+        "audio-file": "finger"
+      },
+      {
+        "word": "ear",
+        "prompt": "Ear. I can't hear well out of my left ear. Ear.",
+        "audio-file": "ear"
+      },
+      {
+        "word": "shoulder",
+        "prompt": "Shoulder. He carried the bag over his shoulder. Shoulder.",
+        "audio-file": "shoulder"
+      },
+      {
+        "word": "ankle",
+        "prompt": "Ankle. She twisted her ankle running. Ankle.",
+        "audio-file": "ankle"
+      },
+      {
+        "word": "pressure",
+        "prompt": "Pressure. Apply pressure to the wound. Pressure.",
+        "audio-file": "pressure"
+      },
+      {
+        "word": "forehead",
+        "prompt": "Forehead. He wiped the sweat from his forehead. Forehead.",
+        "audio-file": "forehead"
+      },
+      {
+        "word": "tongue",
+        "prompt": "Tongue. I bit my tongue while eating. Tongue.",
+        "audio-file": "tongue"
+      },
+      {
+        "word": "heart",
+        "prompt": "Heart. The heart pumps blood through the body. Heart.",
+        "audio-file": "heart"
+      },
+      {
+        "word": "against",
+        "prompt": "Against. He leaned against the wall. Against.",
+        "audio-file": "against"
+      },
+      {
+        "word": "beneath",
+        "prompt": "Beneath. The keys were beneath the papers. Beneath.",
+        "audio-file": "beneath"
+      },
+      {
+        "word": "brought",
+        "prompt": "Brought. She brought cookies to the party. Brought.",
+        "audio-file": "brought"
+      },
+      {
+        "word": "caught",
+        "prompt": "Caught. The cat caught a mouse. Caught.",
+        "audio-file": "caught"
+      },
+      {
+        "word": "famous",
+        "prompt": "Famous. The actor is very famous. Famous.",
+        "audio-file": "famous"
+      },
+      {
+        "word": "August",
+        "prompt": "August. My birthday is in August. August.",
+        "audio-file": "august"
+      },
+      {
+        "word": "either",
+        "prompt": "Either. You can choose either the red or the blue one. Either.",
+        "audio-file": "either"
+      },
+      {
+        "word": "enough",
+        "prompt": "Enough. Do we have enough food? Enough.",
+        "audio-file": "enough"
+      },
+      {
+        "word": "beautiful",
+        "prompt": "Beautiful. The sunset was beautiful. Beautiful.",
+        "audio-file": "beautiful"
+      },
+      {
+        "word": "dollar",
+        "prompt": "Dollar. The book costs one dollar. Dollar.",
+        "audio-file": "dollar"
+      },
+      {
+        "word": "February",
+        "prompt": "February. Valentine's Day is in February. February.",
+        "audio-file": "february"
+      },
+      {
+        "word": "castle",
+        "prompt": "Castle. The king lived in a large castle. Castle.",
+        "audio-file": "castle"
+      },
+      {
+        "word": "ancient",
+        "prompt": "Ancient. We visited the ancient ruins. Ancient.",
+        "audio-file": "ancient"
+      },
+      {
+        "word": "guess",
+        "prompt": "Guess. Can you guess the answer? Guess.",
+        "audio-file": "guess"
+      },
+      {
+        "word": "general",
+        "prompt": "General. He gave a general overview of the topic. General.",
+        "audio-file": "general"
+      },
+      {
+        "word": "journal",
+        "prompt": "Journal. She writes in her journal every night. Journal.",
+        "audio-file": "journal"
+      },
+      {
+        "word": "instead",
+        "prompt": "Instead. Let's have tea instead of coffee. Instead.",
+        "audio-file": "instead"
+      },
+      {
+        "word": "science",
+        "prompt": "Science. My favorite subject is science. Science.",
+        "audio-file": "science"
+      },
+      {
+        "word": "double",
+        "prompt": "Double. Please double check your work. Double.",
+        "audio-file": "double"
+      },
+      {
+        "word": "toward",
+        "prompt": "Toward. He walked toward the door. Toward.",
+        "audio-file": "toward"
+      },
+      {
+        "word": "niece",
+        "prompt": "Niece. My niece is five years old. Niece.",
+        "audio-file": "niece"
+      },
+      {
+        "word": "machine",
+        "prompt": "Machine. The washing machine is broken. Machine.",
+        "audio-file": "machine"
+      },
+      {
+        "word": "favorite",
+        "prompt": "Favorite. Blue is my favorite color. Favorite.",
+        "audio-file": "favorite"
+      },
+      {
+        "word": "flavor",
+        "prompt": "Flavor. What flavor of ice cream do you want? Flavor.",
+        "audio-file": "flavor"
+      },
+      {
+        "word": "again",
+        "prompt": "Again. Please say that again. Again.",
+        "audio-file": "again"
+      },
+      {
+        "word": "probably",
+        "prompt": "Probably. It will probably rain tomorrow. Probably.",
+        "audio-file": "probably"
+      },
+      {
+        "word": "course",
+        "prompt": "Course. We played on the golf course. Course.",
+        "audio-file": "course"
+      },
+      {
+        "word": "library",
+        "prompt": "Library. I borrowed books from the library. Library.",
+        "audio-file": "library"
+      },
+      {
+        "word": "jealous",
+        "prompt": "Jealous. He was jealous of his friend's new bike. Jealous.",
+        "audio-file": "jealous"
+      },
+      {
+        "word": "Antarctica",
+        "prompt": "Antarctica. Penguins live in Antarctica. Antarctica.",
+        "audio-file": "antarctica"
+      },
+      {
+        "word": "mountain",
+        "prompt": "Mountain. We climbed the mountain yesterday. Mountain.",
+        "audio-file": "mountain"
+      },
+      {
+        "word": "Europe",
+        "prompt": "Europe. Paris is a city in Europe. Europe.",
+        "audio-file": "europe"
+      },
+      {
+        "word": "climate",
+        "prompt": "Climate. The desert has a dry climate. Climate.",
+        "audio-file": "climate"
+      }
+    ]
+  }

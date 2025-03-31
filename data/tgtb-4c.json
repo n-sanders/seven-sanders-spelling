@@ -1,0 +1,246 @@
+{
+    "title": "TGTB Language 4 Spelling List C",
+    "description": "A list of 48 spelling words.",
+    "words": [
+      {
+        "word": "original",
+        "prompt": "Original. This is the original painting, not a copy. Original.",
+        "audio-file": "original"
+      },
+      {
+        "word": "imaginary",
+        "prompt": "Imaginary. Unicorns are imaginary creatures. Imaginary.",
+        "audio-file": "imaginary"
+      },
+      {
+        "word": "awful",
+        "prompt": "Awful. The weather was awful yesterday. Awful.",
+        "audio-file": "awful"
+      },
+      {
+        "word": "calendar",
+        "prompt": "Calendar. Mark the important date on the calendar. Calendar.",
+        "audio-file": "calendar"
+      },
+      {
+        "word": "oxygen",
+        "prompt": "Oxygen. We need oxygen to breathe. Oxygen.",
+        "audio-file": "oxygen"
+      },
+      {
+        "word": "except",
+        "prompt": "Except. Everyone went to the party except him. Except.",
+        "audio-file": "except"
+      },
+      {
+        "word": "realize",
+        "prompt": "Realize. Did you realize you left your keys? Realize.",
+        "audio-file": "realize"
+      },
+      {
+        "word": "shepherd",
+        "prompt": "Shepherd. The shepherd watched over his flock of sheep. Shepherd.",
+        "audio-file": "shepherd"
+      },
+      {
+        "word": "diamond",
+        "prompt": "Diamond. She wore a sparkling diamond necklace. Diamond.",
+        "audio-file": "diamond"
+      },
+      {
+        "word": "consequence",
+        "prompt": "Consequence. Every action has a consequence. Consequence.",
+        "audio-file": "consequence"
+      },
+      {
+        "word": "pharmacy",
+        "prompt": "Pharmacy. I need to pick up medicine at the pharmacy. Pharmacy.",
+        "audio-file": "pharmacy"
+      },
+      {
+        "word": "vacuum",
+        "prompt": "Vacuum. Please vacuum the living room carpet. Vacuum.",
+        "audio-file": "vacuum"
+      },
+      {
+        "word": "schedule",
+        "prompt": "Schedule. Check the bus schedule before you leave. Schedule.",
+        "audio-file": "schedule"
+      },
+      {
+        "word": "dictionary",
+        "prompt": "Dictionary. Look up the meaning in the dictionary. Dictionary.",
+        "audio-file": "dictionary"
+      },
+      {
+        "word": "chocolate",
+        "prompt": "Chocolate. Would you like a piece of chocolate? Chocolate.",
+        "audio-file": "chocolate"
+      },
+      {
+        "word": "biscuit",
+        "prompt": "Biscuit. He enjoyed a warm biscuit with butter. Biscuit.",
+        "audio-file": "biscuit"
+      },
+      {
+        "word": "vegetable",
+        "prompt": "Vegetable. Carrots are my favorite vegetable. Vegetable.",
+        "audio-file": "vegetable"
+      },
+      {
+        "word": "fossil",
+        "prompt": "Fossil. They found a dinosaur fossil in the rocks. Fossil.",
+        "audio-file": "fossil"
+      },
+      {
+        "word": "politician",
+        "prompt": "Politician. The politician gave a speech to the crowd. Politician.",
+        "audio-file": "politician"
+      },
+      {
+        "word": "captain",
+        "prompt": "Captain. The captain guided the ship through the storm. Captain.",
+        "audio-file": "captain"
+      },
+      {
+        "word": "business",
+        "prompt": "Business. She runs her own small business. Business.",
+        "audio-file": "business"
+      },
+      {
+        "word": "pleasure",
+        "prompt": "Pleasure. Reading is a great pleasure for me. Pleasure.",
+        "audio-file": "pleasure"
+      },
+      {
+        "word": "forward",
+        "prompt": "Forward. Please move forward in the line. Forward.",
+        "audio-file": "forward"
+      },
+      {
+        "word": "wheelbarrow",
+        "prompt": "Wheelbarrow. He pushed the wheelbarrow full of soil. Wheelbarrow.",
+        "audio-file": "wheelbarrow"
+      },
+      {
+        "word": "material",
+        "prompt": "Material. What material is this shirt made from? Material.",
+        "audio-file": "material"
+      },
+      {
+        "word": "hemisphere",
+        "prompt": "Hemisphere. We live in the Northern Hemisphere. Hemisphere.",
+        "audio-file": "hemisphere"
+      },
+      {
+        "word": "succeed",
+        "prompt": "Succeed. With hard work, you will succeed. Succeed.",
+        "audio-file": "succeed"
+      },
+      {
+        "word": "island",
+        "prompt": "Island. They spent their vacation on a tropical island. Island.",
+        "audio-file": "island"
+      },
+      {
+        "word": "journey",
+        "prompt": "Journey. Their journey across the country took weeks. Journey.",
+        "audio-file": "journey"
+      },
+      {
+        "word": "necessary",
+        "prompt": "Necessary. Is it necessary to bring a jacket? Necessary.",
+        "audio-file": "necessary"
+      },
+      {
+        "word": "successful",
+        "prompt": "Successful. The event was very successful. Successful.",
+        "audio-file": "successful"
+      },
+      {
+        "word": "exaggerate",
+        "prompt": "Exaggerate. Please tell the truth and don't exaggerate. Exaggerate.",
+        "audio-file": "exaggerate"
+      },
+      {
+        "word": "syllable",
+        "prompt": "Syllable. The word 'happy' has two syllables. Syllable.",
+        "audio-file": "syllable"
+      },
+      {
+        "word": "weird",
+        "prompt": "Weird. I heard a weird noise outside last night. Weird.",
+        "audio-file": "weird"
+      },
+      {
+        "word": "spaghetti",
+        "prompt": "Spaghetti. We ate spaghetti and meatballs for dinner. Spaghetti.",
+        "audio-file": "spaghetti"
+      },
+      {
+        "word": "temperature",
+        "prompt": "Temperature. The temperature dropped below freezing. Temperature.",
+        "audio-file": "temperature"
+      },
+      {
+        "word": "height",
+        "prompt": "Height. What is the height of that tall building? Height.",
+        "audio-file": "height"
+      },
+      {
+        "word": "paralyze",
+        "prompt": "Paralyze. Extreme fear can paralyze someone. Paralyze.",
+        "audio-file": "paralyze"
+      },
+      {
+        "word": "courageous",
+        "prompt": "Courageous. The courageous soldier saved his comrades. Courageous.",
+        "audio-file": "courageous"
+      },
+      {
+        "word": "professor",
+        "prompt": "Professor. The professor teaches chemistry at the university. Professor.",
+        "audio-file": "professor"
+      },
+      {
+        "word": "governor",
+        "prompt": "Governor. The governor of the state announced a new plan. Governor.",
+        "audio-file": "governor"
+      },
+      {
+        "word": "achieve",
+        "prompt": "Achieve. Set goals that you want to achieve. Achieve.",
+        "audio-file": "achieve"
+      },
+      {
+        "word": "appreciate",
+        "prompt": "Appreciate. I really appreciate your kindness. Appreciate.",
+        "audio-file": "appreciate"
+      },
+      {
+        "word": "awkward",
+        "prompt": "Awkward. There was an awkward silence in the room. Awkward.",
+        "audio-file": "awkward"
+      },
+      {
+        "word": "foreign",
+        "prompt": "Foreign. She enjoys learning foreign languages. Foreign.",
+        "audio-file": "foreign"
+      },
+      {
+        "word": "familiar",
+        "prompt": "Familiar. That song sounds familiar to me. Familiar.",
+        "audio-file": "familiar"
+      },
+      {
+        "word": "privilege",
+        "prompt": "Privilege. It is a privilege to attend this school. Privilege.",
+        "audio-file": "privilege"
+      },
+      {
+        "word": "equation",
+        "prompt": "Equation. Can you solve this math equation? Equation.",
+        "audio-file": "equation"
+      }
+    ]
+  }

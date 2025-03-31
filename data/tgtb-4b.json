@@ -1,0 +1,266 @@
+{
+    "title": "TGTB Language 4 Spelling List B",
+    "description": "A list of 52 spelling words.",
+    "words": [
+      {
+        "word": "area",
+        "prompt": "Area. This is a restricted area. Area.",
+        "audio-file": "area"
+      },
+      {
+        "word": "impossible",
+        "prompt": "Impossible. It felt impossible to finish the race. Impossible.",
+        "audio-file": "impossible"
+      },
+      {
+        "word": "twelfth",
+        "prompt": "Twelfth. He was the twelfth person in line. Twelfth.",
+        "audio-file": "twelfth"
+      },
+      {
+        "word": "believe",
+        "prompt": "Believe. I believe you can do it. Believe.",
+        "audio-file": "believe"
+      },
+      {
+        "word": "special",
+        "prompt": "Special. Today is a special occasion. Special.",
+        "audio-file": "special"
+      },
+      {
+        "word": "basically",
+        "prompt": "Basically. Basically, we need more time to complete the project. Basically.",
+        "audio-file": "basically"
+      },
+      {
+        "word": "trouble",
+        "prompt": "Trouble. He got into trouble at school. Trouble.",
+        "audio-file": "trouble"
+      },
+      {
+        "word": "cough",
+        "prompt": "Cough. She has a bad cough. Cough.",
+        "audio-file": "cough"
+      },
+      {
+        "word": "rough",
+        "prompt": "Rough. The surface of the rock was rough. Rough.",
+        "audio-file": "rough"
+      },
+      {
+        "word": "nephew",
+        "prompt": "Nephew. My nephew is visiting this weekend. Nephew.",
+        "audio-file": "nephew"
+      },
+      {
+        "word": "column",
+        "prompt": "Column. Write your name in the first column. Column.",
+        "audio-file": "column"
+      },
+      {
+        "word": "lightning",
+        "prompt": "Lightning. We saw lightning during the storm. Lightning.",
+        "audio-file": "lightning"
+      },
+      {
+        "word": "paragraph",
+        "prompt": "Paragraph. Please write one paragraph about your summer. Paragraph.",
+        "audio-file": "paragraph"
+      },
+      {
+        "word": "audience",
+        "prompt": "Audience. The audience applauded loudly. Audience.",
+        "audio-file": "audience"
+      },
+      {
+        "word": "autumn",
+        "prompt": "Autumn. The leaves change color in autumn. Autumn.",
+        "audio-file": "autumn"
+      },
+      {
+        "word": "certain",
+        "prompt": "Certain. Are you certain about the answer? Certain.",
+        "audio-file": "certain"
+      },
+      {
+        "word": "continue",
+        "prompt": "Continue. Please continue reading the story. Continue.",
+        "audio-file": "continue"
+      },
+      {
+        "word": "excellent",
+        "prompt": "Excellent. That was an excellent performance. Excellent.",
+        "audio-file": "excellent"
+      },
+      {
+        "word": "cousin",
+        "prompt": "Cousin. My cousin lives in another state. Cousin.",
+        "audio-file": "cousin"
+      },
+      {
+        "word": "museum",
+        "prompt": "Museum. We visited the science museum. Museum.",
+        "audio-file": "museum"
+      },
+      {
+        "word": "exercise",
+        "prompt": "Exercise. Daily exercise is good for your health. Exercise.",
+        "audio-file": "exercise"
+      },
+      {
+        "word": "breakfast",
+        "prompt": "Breakfast. What did you eat for breakfast? Breakfast.",
+        "audio-file": "breakfast"
+      },
+      {
+        "word": "guitar",
+        "prompt": "Guitar. He plays the guitar very well. Guitar.",
+        "audio-file": "guitar"
+      },
+      {
+        "word": "tissue",
+        "prompt": "Tissue. Do you need a tissue? Tissue.",
+        "audio-file": "tissue"
+      },
+      {
+        "word": "knowledge",
+        "prompt": "Knowledge. Reading books increases your knowledge. Knowledge.",
+        "audio-file": "knowledge"
+      },
+      {
+        "word": "lawyer",
+        "prompt": "Lawyer. She hired a lawyer for legal advice. Lawyer.",
+        "audio-file": "lawyer"
+      },
+      {
+        "word": "length",
+        "prompt": "Length. Measure the length of the rope. Length.",
+        "audio-file": "length"
+      },
+      {
+        "word": "finally",
+        "prompt": "Finally. We finally reached the destination. Finally.",
+        "audio-file": "finally"
+      },
+      {
+        "word": "neighbor",
+        "prompt": "Neighbor. Our neighbor is very friendly. Neighbor.",
+        "audio-file": "neighbor"
+      },
+      {
+        "word": "ninety",
+        "prompt": "Ninety. My grandfather is ninety years old. Ninety.",
+        "audio-file": "ninety"
+      },
+      {
+        "word": "octopus",
+        "prompt": "Octopus. An octopus has eight tentacles. Octopus.",
+        "audio-file": "octopus"
+      },
+      {
+        "word": "beginning",
+        "prompt": "Beginning. This is just the beginning of the story. Beginning.",
+        "audio-file": "beginning"
+      },
+      {
+        "word": "Tuesday",
+        "prompt": "Tuesday. The meeting is scheduled for Tuesday. Tuesday.",
+        "audio-file": "tuesday"
+      },
+      {
+        "word": "prairie",
+        "prompt": "Prairie. Wildflowers grow on the prairie. Prairie.",
+        "audio-file": "prairie"
+      },
+      {
+        "word": "receive",
+        "prompt": "Receive. Did you receive the package? Receive.",
+        "audio-file": "receive"
+      },
+      {
+        "word": "essay",
+        "prompt": "Essay. I need to write an essay for English class. Essay.",
+        "audio-file": "essay"
+      },
+      {
+        "word": "religion",
+        "prompt": "Religion. He is studying world religion. Religion.",
+        "audio-file": "religion"
+      },
+      {
+        "word": "restaurant",
+        "prompt": "Restaurant. Let's eat at that new restaurant. Restaurant.",
+        "audio-file": "restaurant"
+      },
+      {
+        "word": "soldier",
+        "prompt": "Soldier. The soldier marched bravely in the parade. Soldier.",
+        "audio-file": "soldier"
+      },
+      {
+        "word": "Wednesday",
+        "prompt": "Wednesday. We have a test on Wednesday. Wednesday.",
+        "audio-file": "wednesday"
+      },
+      {
+        "word": "Russia",
+        "prompt": "Russia. Russia is the largest country in the world. Russia.",
+        "audio-file": "russia"
+      },
+      {
+        "word": "Australia",
+        "prompt": "Australia. Kangaroos and koalas live in Australia. Australia.",
+        "audio-file": "australia"
+      },
+      {
+        "word": "bruise",
+        "prompt": "Bruise. I got a bruise on my arm when I fell. Bruise.",
+        "audio-file": "bruise"
+      },
+      {
+        "word": "sword",
+        "prompt": "Sword. The knight carried a sharp sword. Sword.",
+        "audio-file": "sword"
+      },
+      {
+        "word": "stomach",
+        "prompt": "Stomach. My stomach hurts after eating too much candy. Stomach.",
+        "audio-file": "stomach"
+      },
+      {
+        "word": "message",
+        "prompt": "Message. I left you a message on your phone. Message.",
+        "audio-file": "message"
+      },
+      {
+        "word": "January",
+        "prompt": "January. New Year's Day is in January. January.",
+        "audio-file": "january"
+      },
+      {
+        "word": "surprise",
+        "prompt": "Surprise. It was a wonderful surprise party. Surprise.",
+        "audio-file": "surprise"
+      },
+      {
+        "word": "scissors",
+        "prompt": "Scissors. Use the scissors to cut the paper. Scissors.",
+        "audio-file": "scissors"
+      },
+      {
+        "word": "different",
+        "prompt": "Different. These two shells look different. Different.",
+        "audio-file": "different"
+      },
+      {
+        "word": "statue",
+        "prompt": "Statue. There is a large statue in the park. Statue.",
+        "audio-file": "statue"
+      },
+      {
+        "word": "wrestle",
+        "prompt": "Wrestle. The children like to wrestle playfully on the mat. Wrestle.",
+        "audio-file": "wrestle"
+      }
+    ]
+  }
