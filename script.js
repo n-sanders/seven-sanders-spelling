@@ -287,8 +287,39 @@ function changeList() {
   loadAvailableLists();
 }
 
-// Event listeners
+// Theme selector functionality
 document.addEventListener('DOMContentLoaded', () => {
+  // Initialize theme from localStorage or default
+  initializeTheme();
+  
+  // Theme toggle button click event
+  const themeToggle = document.getElementById('theme-toggle');
+  const themeDropdown = document.getElementById('theme-dropdown');
+  
+  themeToggle.addEventListener('click', () => {
+    themeDropdown.classList.toggle('active');
+  });
+  
+  // Close dropdown when clicking outside
+  document.addEventListener('click', (e) => {
+    if (!themeToggle.contains(e.target) && !themeDropdown.contains(e.target)) {
+      themeDropdown.classList.remove('active');
+    }
+  });
+  
+  // Theme option selection
+  const themeOptions = document.querySelectorAll('.theme-option');
+  themeOptions.forEach(option => {
+    option.addEventListener('click', () => {
+      const selectedTheme = option.getAttribute('data-theme');
+      setTheme(selectedTheme);
+      themeDropdown.classList.remove('active');
+      
+      // Save theme preference to localStorage
+      localStorage.setItem('selectedTheme', selectedTheme);
+    });
+  });
+  
   createKeyboard();
   loadAvailableLists();
   
@@ -350,3 +381,26 @@ document.addEventListener('keydown', (e) => {
     onBackspace();
   }
 });
+
+// Initialize theme based on saved preference
+function initializeTheme() {
+  const savedTheme = localStorage.getItem('selectedTheme');
+  if (savedTheme) {
+    setTheme(savedTheme);
+  }
+}
+
+// Set theme by adding class to body
+function setTheme(theme) {
+  // Remove all existing theme classes
+  document.body.classList.remove('theme-hannah');
+  document.body.classList.remove('theme-noah');
+  document.body.classList.remove('theme-evie');
+  document.body.classList.remove('theme-judah');
+  document.body.classList.remove('theme-ezra');
+  
+  // Add selected theme class if not default
+  if (theme !== 'default') {
+    document.body.classList.add(`theme-${theme}`);
+  }
+}

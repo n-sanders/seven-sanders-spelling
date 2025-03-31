@@ -1,176 +1,527 @@
+:root {
+  /* Theme Colors */
+  --primary-color: #602924; /* Used for buttons, borders */
+  --primary-hover: #5f302c; /* Button hover state */
+  --secondary-color: #c69548; /* Container background */
+  --accent-color: #562016; /* Progress fill */
+  
+  /* UI Colors */
+  --background-main: #f8f9fa; /* Main background fallback */
+  --background-transparent: #f8f9fa78; /* Semi-transparent background */
+  --hover-background: #e9ecef78; /* Hover state background */
+  --progress-background: #e9ecef; /* Progress bar background */
+  
+  /* Text Colors */
+  --text-primary: #000000; /* Main text color */
+  --text-secondary: #6c757d; /* Secondary text color */
+  --text-success: #28a745; /* Success text color */
+  --text-muted: #555; /* Subdued text color */
+  
+  /* Border Colors */
+  --border-primary: #602924; /* Primary border color */
+  --border-secondary: #dee2e6; /* Secondary border color */
+  --border-dark: #000; /* Dark border for letter boxes */
+  
+  /* Button Colors */
+  --button-disabled: #6c757d; /* Disabled button color */
+  --button-secondary: #6c757d; /* Secondary button color */
+  --button-secondary-hover: #5a6268; /* Secondary button hover */
+  
+  /* Background Image Properties */
+  --background-image: url('/images/background.png'); /* Background image path */
+  --background-repeat: repeat; /* Default repeat behavior */
+  --background-size: auto 100%; /* Default size for revealing effect */
+  --background-position: left center; /* Anchor to left, reveal right */
+  
+  /* Logo Image */
+  --logo-image: url('/images/Title_Gold.png'); /* Default logo image */
+}
+
+/* Hannah Theme */
+.theme-hannah {
+  /* Theme Colors */
+  --primary-color: #6a0dad; /* Purple - Used for buttons, borders */
+  --primary-hover: #8424d6; /* Lighter purple - Button hover state */
+  --secondary-color: #f8c8dc59; /* Pink - Container background */
+  --accent-color: #4b0082; /* Indigo - Progress fill */
+  
+  /* UI Colors */
+  --background-main: #f5f0ff; /* Light purple tint - Main background fallback */
+  --background-transparent: #f5f0ff78; /* Semi-transparent background */
+  --hover-background: #e9d8ff78; /* Hover state background */
+  --progress-background: #e9d8ff; /* Progress bar background */
+  
+  /* Text Colors */
+  --text-primary: #3a3a3a; /* Dark grey - Main text color */
+  --text-secondary: #6c6c6c; /* Medium grey - Secondary text color */
+  --text-success: #228b22; /* Forest green - Success text color */
+  --text-muted: #666666; /* Subdued text color */
+  
+  /* Border Colors */
+  --border-primary: #6a0dad; /* Purple - Primary border color */
+  --border-secondary: #d8bfd8; /* Thistle - Secondary border color */
+  --border-dark: #4b0082; /* Indigo - Dark border for letter boxes */
+  
+  /* Button Colors */
+  --button-disabled: #9e9e9e; /* Grey - Disabled button color */
+  --button-secondary: #9370db; /* Medium purple - Secondary button color */
+  --button-secondary-hover: #8a5feb; /* Brighter purple - Secondary button hover */
+  
+  /* Background Image */
+  --background-image: url('/images/hannah.png'); /* Custom background for Hannah theme */
+  --background-repeat: no-repeat; /* Override default repeat */
+  --background-size: cover; /* Cover the entire viewport */
+  --background-position: right center; /* Keep revealing from left */
+  
+  /* Logo Image */
+  --logo-image: url('/images/Title_Purple.png'); /* Hannah theme logo */
+}
+
+/* Noah Theme */
+.theme-noah {
+  /* Theme Colors */
+  --primary-color: #380000; /* Red - Used for buttons, borders */
+  --primary-hover: #e60000; /* Brighter red - Button hover state */
+  --secondary-color: #000000b0; /* Container background */
+  --accent-color: #0047ab; /* Cobalt blue - Progress fill */
+  
+  /* UI Colors */
+  --background-main: #f0f0f0; /* Light gray - Main background fallback */
+  --background-transparent: #f0f0f078; /* Semi-transparent background */
+  --hover-background: #e0e0e078; /* Hover state background */
+  --progress-background: #d0d0d0; /* Progress bar background */
+  
+  /* Text Colors */
+  --text-primary: #ffffff; /* White - Main text color for contrast against dark background */
+  --text-secondary: #ffffff; /* Silver - Secondary text color */
+  --text-success: #850000; /* Deep sky blue - Success text color */
+  --text-muted: #5e5d5d; /* Dark gray - Subdued text color */
+  
+  /* Border Colors */
+  --border-primary: #850000; /* Red - Primary border color */
+  --border-secondary: #2f4f4f; /* Dark slate gray - Secondary border color */
+  --border-dark: #0047ab; /* Cobalt blue - Dark border for letter boxes */
+  
+  /* Button Colors */
+  --button-disabled: #696969; /* Dim gray - Disabled button color */
+  --button-secondary: #0047ab; /* Cobalt blue - Secondary button color */
+  --button-secondary-hover: #0060df; /* Brighter blue - Secondary button hover */
+  
+  /* Background Image */
+  --background-image: url('/images/noah.png'); /* Custom background for Noah theme */
+  --background-repeat: no-repeat; /* Background repeat behavior */
+  --background-size: cover; /* Cover the entire viewport */
+  --background-position: left center; /* Center the background */
+  
+  /* Logo Image */
+  --logo-image: url('/images/Title_Black_Red.png'); /* Noah theme logo */
+}
+
+/* Evie Theme */
+.theme-evie {
+  /* Theme Colors */
+  --primary-color: #5f9ea0; /* Cadet blue - Used for buttons, borders */
+  --primary-hover: #6fb7b9; /* Lighter teal - Button hover state */
+  --secondary-color: #79553dc9; /* Semi-transparent brown - Container background */
+  --accent-color: #008b8b; /* Dark cyan - Progress fill */
+  
+  /* UI Colors */
+  --background-main: #f5f5dc; /* Beige - Main background fallback */
+  --background-transparent: #f5f5dc80; /* Semi-transparent background */
+  --hover-background: #e8e8c880; /* Hover state background */
+  --progress-background: #e0e0d1; /* Progress bar background */
+  
+  /* Text Colors */
+  --text-primary: #3e2723; /* Dark brown - Main text color */
+  --text-secondary: #5d4037; /* Brown - Secondary text color */
+  --text-success: #00796b; /* Teal - Success text color */
+  --text-muted: #6d4c41; /* Brown - Subdued text color */
+  
+  /* Border Colors */
+  --border-primary: #5f9ea0; /* Cadet blue - Primary border color */
+  --border-secondary: #8d6e63; /* Brown - Secondary border color */
+  --border-dark: #4e342e; /* Dark brown - Dark border for letter boxes */
+  
+  /* Button Colors */
+  --button-disabled: #a1887f; /* Light brown - Disabled button color */
+  --button-secondary: #00796b; /* Teal - Secondary button color */
+  --button-secondary-hover: #00897b; /* Brighter teal - Secondary button hover */
+  
+  /* Background Image */
+  --background-image: url('/images/evie.png'); /* Custom background for Evie theme */
+  --background-repeat: no-repeat; /* Background repeat behavior */
+  --background-size: cover; /* Cover the entire viewport */
+  --background-position: center center; /* Center the background */
+  
+  /* Logo Image */
+  --logo-image: url('/images/Title_Gray.png'); /* Evie theme logo */
+}
+
+/* Judah Theme */
+.theme-judah {
+  /* Theme Colors */
+  --primary-color: #00695c; /* Dark teal - Used for buttons, borders */
+  --primary-hover: #13a001; /* Lighter dark teal - Button hover state */
+  --secondary-color: #102027d0; /* Semi-transparent dark blue - Container background */
+  --accent-color: #4caf50; /* Green - Progress fill */
+  
+  /* UI Colors */
+  --background-main: #e8f5e9; /* Light mint green - Main background fallback */
+  --background-transparent: #e8f5e980; /* Semi-transparent background */
+  --hover-background: #c8e6c980; /* Hover state background */
+  --progress-background: #d7dce1; /* Light blue-gray - Progress bar background */
+  
+  /* Text Colors */
+  --text-primary: #e0f2f1; /* Light teal - Main text color for contrast on dark backgrounds */
+  --text-secondary: #b2dfdb; /* Lighter teal - Secondary text color */
+  --text-success: #69f0ae; /* Bright green - Success text color */
+  --text-muted: #80cbc4; /* Medium teal - Subdued text color */
+  
+  /* Border Colors */
+  --border-primary: #00897b; /* Teal - Primary border color */
+  --border-secondary: #37474f; /* Blue-gray - Secondary border color */
+  --border-dark: #004d40; /* Dark teal - Dark border for letter boxes */
+  
+  /* Button Colors */
+  --button-disabled: #78909c; /* Blue-gray - Disabled button color */
+  --button-secondary: #0d47a1; /* Dark blue - Secondary button color */
+  --button-secondary-hover: #1565c0; /* Brighter blue - Secondary button hover */
+  
+  /* Background Image */
+  --background-image: url('/images/judah.png'); /* Custom background for Judah theme */
+  --background-repeat: no-repeat; /* Background repeat behavior */
+  --background-size: cover; /* Cover the entire viewport */
+  --background-position: center center; /* Center the background */
+  
+  /* Logo Image */
+  --logo-image: url('/images/title_minecraft.png'); /* Judah theme logo */
+}
+
+/* Ezra Theme */
+.theme-ezra {
+  /* Theme Colors */
+  --primary-color: #119b84; /* Bright red - Primary buttons, important elements */
+  --primary-hover: #fe8738; /* Orange - Vibrant hover state */
+  --secondary-color: #c0b196dd; /* Dark burgundy with transparency - Container backgrounds */
+  --accent-color: #119b84; /* Teal - Progress indicators, contrasting accent */
+  
+  /* UI Colors */
+  --background-main: #511515; /* Dark burgundy - Main background */
+  --background-transparent: #72323280; /* Semi-transparent burgundy */
+  --hover-background: #51151580; /* Hover state background */
+  --progress-background: #723232; /* Burgundy - Progress bar background */
+  
+  /* Text Colors */
+  --text-primary: #ffffff; /* White - Main text for contrast */
+  --text-secondary: #ffffff; /* Orange - Secondary text/highlights */
+  --text-success: #119b84; /* Teal - Success messages and indicators */
+  --text-muted: #cccccc; /* Light gray - Subdued text */
+  
+  /* Border Colors */
+  --border-primary: #ac2020; /* Bright red - Primary borders */
+  --border-secondary: #723232; /* Burgundy - Secondary borders */
+  --border-dark: #511515; /* Dark burgundy - Dark borders */
+  
+  /* Button Colors */
+  --button-disabled: #723232; /* Burgundy - Disabled button color */
+  --button-secondary: #119b84; /* Teal - Secondary buttons for contrast */
+  --button-secondary-hover: #17c0a5; /* Lighter teal - Secondary button hover */
+  
+  /* Background Image */
+  --background-image: url('/images/ezra.png'); /* Custom background for Ezra theme */
+  --background-repeat: no-repeat; /* Background repeat behavior */
+  --background-size: cover; /* Cover the entire viewport */
+  --background-position: center center; /* Center the background */
+  
+  /* Logo Image */
+  --logo-image: url('/images/title_minecraft.png'); /* Ezra theme logo */
+}
+
 body {
-    font-family: Arial, sans-serif;
-    text-align: center;
-    background-image: url('/images/background.png'); /* Replace with your actual image filename */
-    background-repeat: repeat;
-    background-color: #f8f9fa; /* Fallback color if image doesn't load */
-  }
-  
-  .container {
-    max-width: 600px;
-    margin: 0 auto;
-    padding: 20px;
-    background-color: #c69548;
-    border-radius: 10px;
-    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-  }
-  
-  #word-container {
-    display: flex;
-    flex-direction: row; /* Ensure horizontal layout */
-    justify-content: center;
-    margin-bottom: 20px;
-  }
-  
-  .letter-box {
-    width: 40px;
-    height: 40px;
-    border: 2px solid #000;
-    margin: 0 5px;
-    font-size: 24px;
-    line-height: 40px;
-    text-transform: uppercase;
-    text-align: center;
-    cursor: pointer; /* Make it look clickable */
-  }
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-image: var(--background-image);
+  background-repeat: var(--background-repeat);
+  background-color: var(--background-main); /* Fallback color if image doesn’t load */
+  background-size: var(--background-size); /* Enable revealing effect */
+  background-position: var(--background-position); /* Anchor image for reveal */
+  min-height: 100vh; /* Ensure full viewport height */
+  margin: 0; /* Remove default margin */
+}
 
-  #keyboard {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    margin-bottom: 20px;
-  }
-  
-  #keyboard button {
-    width: 40px;
-    height: 40px;
-    margin: 5px;
-    font-size: 18px;
-  }
-  
-  #feedback {
-    font-size: 24px;
-    margin-bottom: 20px;
-  }
-  
-  #session-complete {
-    margin-top: 20px;
-  }
-  
-  /* List selection styles */
-  #lists-container {
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-    margin: 20px auto;
-  }
-  
-  .list-option {
-    padding: 15px;
-    border: 2px solid #602924;
-    border-radius: 8px;
-    background-color: #f8f9fa78;
-    cursor: pointer;
-    transition: all 0.2s ease;
-  }
-  
-  .list-option:hover {
-    background-color: #e9ecef78;
-    transform: scale(1.02);
-  }
-  
-  .list-title {
-    font-size: 18px;
-    font-weight: bold;
-    margin-bottom: 5px;
-  }
-  
-  .list-description {
-    font-size: 14px;
-    color: #6c757d;
-    margin-bottom: 10px;
-  }
-  
-  .list-progress {
-    margin-top: 10px;
-  }
+h2 {
+  color: var(--text-primary);
+}
 
-  .progress-bar {
-    height: 10px;
-    background-color: #e9ecef;
-    border-radius: 10px;
-    overflow: hidden;
-    margin-bottom: 5px;
-  }
+p {
+  color: var(--text-secondary);
+}
 
-  .progress-fill {
-    height: 100%;
-    background-color: #562016;
-    border-radius: 10px;
-    transition: width 0.5s ease;
-  }
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: var(--secondary-color); /* Using theme variable */
+  border-radius: 10px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
 
-  .progress-text {
-    font-size: 12px;
-    color: #6c757d;
-    text-align: right;
-  }
-  
-  button {
-    padding: 10px 15px;
-    background-color: #602924;
-    color: white;
-    border: none;
-    border-radius: 4px;
-    cursor: pointer;
-    margin: 5px;
-  }
-  
-  button:hover {
-    background-color: #5f302c;
-  }
-  
-  button:disabled {
-    background-color: #6c757d;
-    cursor: not-allowed;
-  }
-  
-  #change-list-btn, #change-list-btn-complete {
-    background-color: #6c757d;
-  }
-  
-  #change-list-btn:hover, #change-list-btn-complete:hover {
-    background-color: #5a6268;
-  }
-  
-  #mastery-progress, #session-mastery-progress {
-    margin: 15px 0;
-    font-size: 16px;
-    color: #555;
-    background-color: #f8f9fa78;
-    padding: 8px 15px;
-    border-radius: 4px;
-    border: 1px solid #dee2e6;
-  }
+#word-container {
+  display: flex;
+  flex-direction: row; /* Ensure horizontal layout */
+  justify-content: center;
+  margin-bottom: 20px;
+}
 
-  #mastered-count, #session-mastered-count {
-    font-weight: bold;
-    color: #28a745;
-  }
+.letter-box {
+  width: 40px;
+  height: 40px;
+  border: 2px solid var(--border-dark); /* Using theme variable */
+  margin: 0 5px;
+  font-size: 24px;
+  line-height: 40px;
+  text-transform: uppercase;
+  text-align: center;
+  cursor: pointer; /* Make it look clickable */
+}
 
-  #total-count, #session-total-count {
-    font-weight: bold;
-  }
+#keyboard {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-bottom: 20px;
+}
 
-  /* Logo styling */
-  .logo-image {
-    max-width: 450px;
-    height: auto;
-    margin: 20px auto;
-    display: block;
-  }
+#keyboard button {
+  width: 40px;
+  height: 40px;
+  margin: 5px;
+  font-size: 18px;
+}
 
-  .header-logo {
-    text-align: center;
-    margin-bottom: 10px;
-  }
+#feedback {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+#session-complete {
+  margin-top: 20px;
+}
+
+/* List selection styles */
+#lists-container {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin: 20px auto;
+}
+
+.list-option {
+  padding: 15px;
+  border: 2px solid var(--border-primary); /* Using theme variable */
+  border-radius: 8px;
+  background-color: var(--background-transparent); /* Using theme variable */
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.list-option:hover {
+  background-color: var(--hover-background); /* Using theme variable */
+  transform: scale(1.02);
+}
+
+.list-title {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.list-description {
+  font-size: 14px;
+  color: var(--text-secondary); /* Using theme variable */
+  margin-bottom: 10px;
+}
+
+.list-progress {
+  margin-top: 10px;
+}
+
+.progress-bar {
+  height: 10px;
+  background-color: var(--progress-background); /* Using theme variable */
+  border-radius: 10px;
+  overflow: hidden;
+  margin-bottom: 5px;
+}
+
+.progress-fill {
+  height: 100%;
+  background-color: var(--accent-color); /* Using theme variable */
+  border-radius: 10px;
+  transition: width 0.5s ease;
+}
+
+.progress-text {
+  font-size: 12px;
+  color: var(--text-secondary); /* Using theme variable */
+  text-align: right;
+}
+
+button {
+  padding: 10px 15px;
+  background-color: var(--primary-color); /* Using theme variable */
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin: 5px;
+}
+
+button:hover {
+  background-color: var(--primary-hover); /* Using theme variable */
+}
+
+button:disabled {
+  background-color: var(--button-disabled); /* Using theme variable */
+  cursor: not-allowed;
+}
+
+#change-list-btn, #change-list-btn-complete {
+  background-color: var(--button-secondary); /* Using theme variable */
+}
+
+#change-list-btn:hover, #change-list-btn-complete:hover {
+  background-color: var(--button-secondary-hover); /* Using theme variable */
+}
+
+#mastery-progress, #session-mastery-progress {
+  margin: 15px 0;
+  font-size: 16px;
+  color: var(--text-muted); /* Using theme variable */
+  background-color: var(--background-transparent); /* Using theme variable */
+  padding: 8px 15px;
+  border-radius: 4px;
+  border: 1px solid var(--border-secondary); /* Using theme variable */
+}
+
+#mastered-count, #session-mastered-count {
+  font-weight: bold;
+  color: var(--text-success); /* Using theme variable */
+}
+
+#total-count, #session-total-count {
+  font-weight: bold;
+}
+
+/* Logo styling */
+.logo-container {
+  text-align: center;
+  margin: 20px auto;
+}
+
+.logo-image {
+  max-width: 450px;
+  height: 200px;
+  margin: 0 auto;
+  background-image: var(--logo-image);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+/* Theme Selector */
+.theme-selector {
+  position: fixed;
+  top: 20px;
+  left: 20px;
+  z-index: 1000;
+}
+
+.theme-toggle {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, var(--primary-color) 0%, var(--accent-color) 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+  border: 2px solid white;
+  transition: transform 0.2s;
+}
+
+.theme-toggle:hover {
+  transform: scale(1.1);
+}
+
+.theme-toggle i {
+  color: white;
+  font-size: 18px;
+}
+
+.theme-dropdown {
+  position: absolute;
+  top: 50px;
+  left: 0;
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 3px 10px rgba(0,0,0,0.2);
+  padding: 10px;
+  display: none;
+  min-width: 150px;
+}
+
+.theme-dropdown.active {
+  display: block;
+  animation: fadeIn 0.3s;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(-10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.theme-option {
+  padding: 8px 15px;
+  border-radius: 4px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  transition: background-color 0.2s;
+}
+
+.theme-option:hover {
+  background-color: var(--background-transparent);
+}
+
+.theme-color-preview {
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+.default-theme-preview {
+  background: linear-gradient(135deg, #602924 0%, #c69548 100%);
+}
+
+.hannah-theme-preview {
+  background: linear-gradient(135deg, #6a0dad 0%, #f8c8dc 100%);
+}
+
+.noah-theme-preview {
+  background: linear-gradient(135deg, #c00000 0%, #0047ab 100%);
+}
+
+.evie-theme-preview {
+  background: linear-gradient(135deg, #5f9ea0 0%, #79553d 100%);
+}
+
+.judah-theme-preview {
+  background: linear-gradient(135deg, #004d40 0%, #102027 100%);
+}
+
+.ezra-theme-preview {
+  background: linear-gradient(135deg, #ac2020 0%, #511515 100%);
+}
