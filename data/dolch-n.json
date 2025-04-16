@@ -358,11 +358,6 @@
         "audio-file": "robin"
       },
       {
-        "word": "Santa Claus",
-        "prompt": "Santa Claus. Santa Claus brings presents. Santa Claus.",
-        "audio-file": "santaclaus"
-      },
-      {
         "word": "school",
         "prompt": "School. It's time for school. School.",
         "audio-file": "school"
